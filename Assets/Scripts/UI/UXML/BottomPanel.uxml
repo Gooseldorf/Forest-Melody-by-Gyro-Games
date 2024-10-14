@@ -1,0 +1,27 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement class="BottomPanelColor" style="height: 128px; border-top-left-radius: 20px; border-top-right-radius: 20px; margin-left: 24px; margin-right: 24px; flex-direction: row; justify-content: space-between;">
+        <ui:VisualElement name="LeftButtons" style="flex-direction: row; justify-content: center; align-items: center;">
+            <ui:VisualElement name="BirdsButton" class="CornerRadius25 TopPanelColor" style="width: 150px; height: 100px; align-items: center; justify-content: center; margin-right: 10px; margin-left: 20px;">
+                <ui:VisualElement name="Selection" style="width: 150px; height: 70px; background-color: rgb(255, 255, 255); position: absolute; bottom: -14%; display: none;" />
+                <ui:VisualElement style="width: 70px; height: 70px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Birds_icon.png?fileID=2800000&amp;guid=16a9c63a14b59ab438470d53a0b72931&amp;type=3#Birds_icon&apos;);" />
+            </ui:VisualElement>
+            <ui:VisualElement name="BoostsButton" class="CornerRadius25 TopPanelColor" style="width: 150px; height: 100px; align-items: center; justify-content: center; margin-right: 10px; margin-left: 10px;">
+                <ui:VisualElement name="Selection" style="width: 150px; height: 70px; background-color: rgb(255, 255, 255); position: absolute; bottom: -14%; display: none;" />
+                <ui:VisualElement style="width: 70px; height: 70px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Boosters_icon.png?fileID=2800000&amp;guid=9bbd1694c9c7e0e45b687bac1f58b496&amp;type=3#Boosters_icon&apos;);" />
+            </ui:VisualElement>
+            <ui:VisualElement name="DecorsButton" class="CornerRadius25 TopPanelColor" style="width: 150px; height: 100px; align-items: center; justify-content: center; margin-left: 10px;">
+                <ui:VisualElement name="Selection" style="width: 150px; height: 70px; background-color: rgb(255, 255, 255); position: absolute; bottom: -14%; display: none;" />
+                <ui:VisualElement style="width: 70px; height: 70px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Decors_icon.png?fileID=2800000&amp;guid=24ad1742a20427040a04d99f595b1923&amp;type=3#Decors_icon&apos;);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="RightButtons" style="flex-direction: row; align-items: center; justify-content: center;">
+            <ui:VisualElement name="ShopButton" class="CornerRadius25 TopPanelColor" style="width: 150px; height: 100px; align-items: center; justify-content: center; margin-right: 10px;">
+                <ui:VisualElement style="width: 70px; height: 70px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Shop_icon.png?fileID=2800000&amp;guid=4af8d2e2d03317745a5d7307e9ad6722&amp;type=3#Shop_icon&apos;);" />
+            </ui:VisualElement>
+            <ui:VisualElement name="WorldButton" class="CornerRadius25 TopPanelColor" style="width: 150px; height: 100px; align-items: center; justify-content: center; margin-right: 20px; margin-left: 10px; display: flex; opacity: 0;">
+                <ui:VisualElement style="width: 70px; height: 70px; background-color: rgba(255, 255, 255, 0); background-image: url(&apos;project://database/Assets/VisualAssets/Interface/World_icon.png?fileID=2800000&amp;guid=b7fc090d6d5fb4448b4f6a7c81eac01f&amp;type=3#World_icon&apos;);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

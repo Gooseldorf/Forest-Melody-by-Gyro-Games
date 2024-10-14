@@ -1,0 +1,20 @@
+
+Annas_Hummingbird.png
+size: 320,167
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Annas_Hummingbird_Beak
+  rotate: true
+  xy: 289, 88
+  size: 77, 29
+  orig: 77, 29
+  offset: 0, 0
+  index: -1
+Annas_Hummingbird_Body
+  rotate: true
+  xy: 2, 2
+  size: 163, 285
+  orig: 163, 285
+  offset: 0, 0
+  index: -1

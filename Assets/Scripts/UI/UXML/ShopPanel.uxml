@@ -1,0 +1,28 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement style="background-color: rgb(6, 55, 121); flex-grow: 1; align-items: center;">
+        <ui:ScrollView vertical-scroller-visibility="Hidden" horizontal-scroller-visibility="Hidden" name="ScrollView" style="margin-top: 114px; align-items: center;">
+            <ui:VisualElement style="align-items: center; margin-top: 80px;">
+                <ui:VisualElement name="TextHolder" class="CornerRadius50" style="align-items: center; width: 420px; height: 90px; justify-content: center; background-color: rgba(0, 0, 0, 0.2);">
+                    <ui:Label text="Crystals" name="CrystalsLabel" class="MainFont" style="font-size: 45px; -unity-font-style: bold; color: rgb(255, 255, 255);" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="CrystalsRoot" style="margin-left: 50px; margin-right: 50px; margin-top: 80px; margin-bottom: 80px; flex-wrap: wrap; justify-content: center; flex-direction: row;" />
+            <ui:VisualElement style="align-items: center;">
+                <ui:VisualElement name="TextHolder" class="CornerRadius50" style="align-items: center; width: 420px; height: 90px; justify-content: center; background-color: rgba(0, 0, 0, 0.2);">
+                    <ui:Label text="Multipliers" name="MultipliersLabel" class="MainFont" style="font-size: 45px; -unity-font-style: bold; color: rgb(255, 255, 255);" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="MultipliersRoot" style="margin-left: 50px; margin-right: 50px; margin-top: 80px; margin-bottom: 80px; flex-wrap: wrap; justify-content: center; flex-direction: row;" />
+            <ui:VisualElement style="align-items: center;">
+                <ui:VisualElement name="TextHolder" class="CornerRadius50" style="align-items: center; width: 420px; height: 90px; justify-content: center; background-color: rgba(0, 0, 0, 0.2);">
+                    <ui:Label text="Time jumps" name="TimeSkipLabel" class="MainFont" style="font-size: 45px; -unity-font-style: bold; color: rgb(255, 255, 255);" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="TimeSkipRoot" style="margin-left: 50px; margin-right: 50px; margin-top: 80px; margin-bottom: 80px; flex-wrap: wrap; justify-content: center; flex-direction: row;" />
+        </ui:ScrollView>
+        <ui:VisualElement name="ExitButton" class="TopPanelColor" style="width: 120px; height: 120px; border-top-left-radius: 15px; border-bottom-left-radius: 15px; position: absolute; right: 0; top: 140px; align-items: center; justify-content: center;">
+            <ui:Label text="X" display-tooltip-when-elided="true" class="MainFont" style="color: rgb(191, 191, 191); font-size: 60px; -unity-font-style: bold;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

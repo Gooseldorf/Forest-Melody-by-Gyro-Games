@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9e8ad7974afc5e4b8a6b1c33bb4475a, type: 3}
+  m_Name: American kestrel
+  m_EditorClassIdentifier: 
+  index: 57
+  <ID>k__BackingField: american_kestrel
+  <Condition>k__BackingField:
+    <PlayerLevel>k__BackingField: 275
+    <TreeCount>k__BackingField: 1
+  hatchTimeA: 0.18431
+  hatchTimeB: 15.51616
+  hatchTimeC: -42.30206
+  buildCostA: 8.7287
+  buildCostB: 227.087
+  buildCostC: -2403.9119
+  buildCostD: 11260.784
+  buildCostE: 5705.131
+  notesA: 1.4634
+  notesB: -1.3229
+  thresholdLevel: 10
+  lvlUpA: 30.43016
+  lvlUpPOW: 3.74917
+  lvlUpEPOW: 0.09438
+  LateLvlUpA: 39.15016
+  LateLvlUpPOW: 3.75324
+  LateLvlUpEPOW: 0.07332

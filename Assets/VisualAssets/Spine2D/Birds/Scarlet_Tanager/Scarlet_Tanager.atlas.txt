@@ -1,0 +1,27 @@
+
+Scarlet_Tanager.png
+size: 336,227
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Scarlet_Tanager_Body
+  rotate: true
+  xy: 2, 2
+  size: 223, 311
+  orig: 223, 311
+  offset: 0, 0
+  index: -1
+Scarlet_Tanager_BottomBeak
+  rotate: true
+  xy: 315, 124
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+Scarlet_Tanager_TopBeak
+  rotate: true
+  xy: 315, 174
+  size: 51, 19
+  orig: 51, 19
+  offset: 0, 0
+  index: -1

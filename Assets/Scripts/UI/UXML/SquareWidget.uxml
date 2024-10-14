@@ -1,0 +1,18 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="ProgressBarWhite" src="project://database/Assets/Scripts/UI/UXML/ProgressBarWhite.uxml?fileID=9197481963319205126&amp;guid=fe30a04bcd0129d4a86a85540d302669&amp;type=3#ProgressBarWhite" />
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement style="width: 230px; height: 240px;">
+        <ui:VisualElement name="Image1" style="width: 230px; height: 170px; background-color: rgb(255, 136, 0); border-top-left-radius: 20px; border-top-right-radius: 20px; overflow: hidden; justify-content: center; align-items: center;">
+            <ui:VisualElement name="Image2" style="width: 512px; height: 512px; border-top-left-radius: 20px; border-top-right-radius: 20px; -unity-background-scale-mode: scale-and-crop; justify-content: center; align-items: center;">
+                <ui:VisualElement name="Image3" style="width: 230px; height: 170px; border-top-left-radius: 20px; border-top-right-radius: 20px; -unity-background-scale-mode: scale-to-fit;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="Bottom" style="width: 230px; height: 70px; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; background-color: rgb(1, 177, 236); justify-content: center; align-items: center;">
+            <ui:Label text="Use Now" display-tooltip-when-elided="true" name="Label" class="MainFont" style="-unity-text-align: middle-center; font-size: 30px; -unity-font-style: bold; color: rgb(255, 255, 255);" />
+            <ui:VisualElement name="Cooldown" style="display: none;">
+                <ui:Label text="00:00:00" display-tooltip-when-elided="true" name="TimerLabel" class="MainFont" style="color: rgb(255, 255, 255); -unity-text-align: upper-center; font-size: 30px; -unity-font-style: bold;" />
+                <ui:Instance template="ProgressBarWhite" name="ProgressBar" style="width: 200px; height: 16px;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

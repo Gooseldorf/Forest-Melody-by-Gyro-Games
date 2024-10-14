@@ -1,0 +1,27 @@
+
+Common_Raven.png
+size: 284,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Common_Raven_Body
+  rotate: false
+  xy: 2, 2
+  size: 249, 241
+  orig: 249, 241
+  offset: 0, 0
+  index: -1
+Common_Raven_BottomBeak
+  rotate: true
+  xy: 253, 136
+  size: 52, 11
+  orig: 52, 11
+  offset: 0, 0
+  index: -1
+Common_Raven_TopBeak
+  rotate: true
+  xy: 253, 190
+  size: 53, 29
+  orig: 53, 29
+  offset: 0, 0
+  index: -1

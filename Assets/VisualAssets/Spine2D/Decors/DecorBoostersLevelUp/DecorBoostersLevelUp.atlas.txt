@@ -1,0 +1,20 @@
+
+DecorBoostersLevelUp.png
+size: 474,189
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 2, 2
+  size: 185, 297
+  orig: 185, 297
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 301, 11
+  size: 176, 171
+  orig: 176, 171
+  offset: 0, 0
+  index: -1

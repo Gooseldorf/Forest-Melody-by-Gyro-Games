@@ -1,0 +1,27 @@
+
+Tufted_Titmouse.png
+size: 278,233
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Tufted_Titmouse_Body
+  rotate: false
+  xy: 2, 2
+  size: 243, 229
+  orig: 243, 229
+  offset: 0, 0
+  index: -1
+Tufted_Titmouse_BottomBeak
+  rotate: true
+  xy: 247, 151
+  size: 41, 24
+  orig: 41, 24
+  offset: 0, 0
+  index: -1
+Tufted_Titmouse_TopBeak
+  rotate: true
+  xy: 247, 194
+  size: 37, 29
+  orig: 37, 29
+  offset: 0, 0
+  index: -1

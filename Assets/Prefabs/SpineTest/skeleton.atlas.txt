@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 275,200
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+american_goldfinch_BottomBeak
+  rotate: true
+  xy: 254, 136
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+american_goldfinch_TopBeak
+  rotate: true
+  xy: 254, 168
+  size: 30, 19
+  orig: 30, 19
+  offset: 0, 0
+  index: -1
+american_goldfinch_body
+  rotate: true
+  xy: 2, 2
+  size: 196, 250
+  orig: 196, 250
+  offset: 0, 0
+  index: -1

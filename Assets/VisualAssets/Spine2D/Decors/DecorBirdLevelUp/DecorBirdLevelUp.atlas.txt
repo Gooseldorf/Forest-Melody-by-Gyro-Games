@@ -1,0 +1,48 @@
+
+DecorBirdLevelUp.png
+size: 273,252
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 201, 248
+  orig: 201, 248
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 205, 29
+  size: 109, 35
+  orig: 109, 35
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 205, 140
+  size: 110, 66
+  orig: 110, 67
+  offset: 0, 1
+  index: -1
+3
+  rotate: true
+  xy: 242, 90
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 205, 6
+  size: 26, 21
+  orig: 26, 21
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 242, 119
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1

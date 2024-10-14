@@ -1,0 +1,13 @@
+
+DecorHatchTime.png
+size: 254,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 250, 170
+  orig: 250, 170
+  offset: 0, 0
+  index: -1

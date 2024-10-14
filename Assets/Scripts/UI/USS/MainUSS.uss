@@ -1,0 +1,51 @@
+.CornerRadius50 {
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.CornerRadius25 {
+    border-top-left-radius: 25px;
+    border-bottom-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
+.CornerRadius20 {
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.CornerRadius15 {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.TopPanelColor {
+    background-color: rgb(255, 255, 255);
+}
+
+.TopPanelSecondColor {
+    background-color: rgb(231, 245, 246);
+}
+
+.BottomPanelColor {
+    background-color: rgb(231, 245, 246);
+}
+
+.MainFont {
+    -unity-font: url('project://database/Library/unity%20default%20resources?fileID=10102&guid=0000000000000000e000000000000000&type=0#Arial');
+}
+
+.BottomTabHeight {
+    height: 1290px;
+}
+
+.TransparentBlack {
+    background-color: rgba(0, 0, 0, 0.4);
+}

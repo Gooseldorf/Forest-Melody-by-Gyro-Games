@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlasBirds
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 33ee5cd32a0f6334cb60952f55378a31, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 017860401a539824cb5f432a3406f3a1, type: 3}
+  - {fileID: 21300000, guid: 6a2d4850deba6654d9fcceadae4c45a7, type: 3}
+  - {fileID: 21300000, guid: 7863a690cc2f6f04b899c9c0236a3aad, type: 3}
+  - {fileID: 21300000, guid: ad86477101e3bab4bbba8b7c690d262c, type: 3}
+  - {fileID: 21300000, guid: 46b5b9f15d6fcff46815415265a775a7, type: 3}
+  - {fileID: 21300000, guid: b858a25376cb05f419235e0a3b01ae58, type: 3}
+  - {fileID: 21300000, guid: e62f28a3d77ff12408813b3da8fa10ae, type: 3}
+  - {fileID: 21300000, guid: 281c4c74f5cca984081912cd9aeb1ee8, type: 3}
+  - {fileID: 21300000, guid: c94d26b4bcf562d40b1010e9ca8988d1, type: 3}
+  - {fileID: 21300000, guid: 8f58ea651dabe2149bd791ae1351fee8, type: 3}
+  - {fileID: 21300000, guid: 94d67027e972fc94aa8b59ccc2b727ee, type: 3}
+  - {fileID: 21300000, guid: 0dbb5c37b1564a046a3d90983df4d191, type: 3}
+  - {fileID: 21300000, guid: 3fdf9a778ee63754fad3cc25a71dd3fc, type: 3}
+  - {fileID: 21300000, guid: fd1f6d2854a919c44abc546e2ea4f64c, type: 3}
+  - {fileID: 21300000, guid: ef6c0b78d5d25ff48852e7d9e685a0f9, type: 3}
+  - {fileID: 21300000, guid: f422d3794fa2bc04f9406bd916c02f61, type: 3}
+  - {fileID: 21300000, guid: 13251889dc38b0947869097d0ea851c8, type: 3}
+  - {fileID: 21300000, guid: d3f7a0f95ccd7844bae8b4666676d8d3, type: 3}
+  - {fileID: 21300000, guid: 808f049a4a8f4ca44963e9eb1b482ed7, type: 3}
+  - {fileID: 21300000, guid: e53b999aeb0e40f448d75d60fa01db17, type: 3}
+  - {fileID: 21300000, guid: 0079860be3b0f5348b83c168ab08cc6a, type: 3}
+  - {fileID: 21300000, guid: cbf3a72c7ea58c74d95e31b673c96f28, type: 3}
+  - {fileID: 21300000, guid: c374b4fda651b554bba564c771d91ab6, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - northern_red_bishop
+  - costa's_hummingbird
+  - pileated_woodpecker
+  - house_wren
+  - summer_tanager
+  - gray_catbird
+  - tufted_titmouse
+  - eastern_wood-pewee
+  - black-billed_cuckoo
+  - anna's_hummingbird
+  - american_goldfinch
+  - blue_jay
+  - belted_kingfisher
+  - american_robin
+  - scarlet_tanager
+  - purple_finch
+  - green_jay
+  - willow_ptarmigan
+  - chimney_swift
+  - common_raven
+  - yellow_warbler
+  - scissor-tailed_flycatcher
+  - indigo_bunting
+  m_RenderDataMap: {}
+  m_Tag: UIAtlasBirds
+  m_IsVariant: 0

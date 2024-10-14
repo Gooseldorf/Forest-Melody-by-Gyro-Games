@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement class="TransparentBlack" style="flex-shrink: 0; flex-grow: 1; align-items: center; justify-content: center;">
+        <ui:VisualElement name="WindowBg" class="TopPanelColor CornerRadius25" style="width: 770px; height: 920px; padding-left: 40px; padding-right: 40px; padding-top: 40px; padding-bottom: 40px; align-items: center; justify-content: space-between;">
+            <ui:Label text="Label" display-tooltip-when-elided="true" name="TitleLabel" class="MainFont" style="font-size: 50px; -unity-font-style: bold; color: rgb(43, 43, 43); -unity-text-align: upper-center;" />
+            <ui:VisualElement name="Image" style="width: 320px; height: 320px;" />
+            <ui:VisualElement name="TextBg" class="CornerRadius20" style="background-color: rgb(231, 245, 246); width: 470px; height: 110px; justify-content: center; align-items: center; flex-direction: row;">
+                <ui:VisualElement name="Icon" style="width: 40px; height: 40px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Notes_icon.png?fileID=2800000&amp;guid=ece10f2a5d80f5d4fa6b46eee2990f1e&amp;type=3#Notes_icon&apos;);" />
+                <ui:Label text="Label" display-tooltip-when-elided="true" name="TextLabel" class="MainFont" style="color: rgb(43, 43, 43); font-size: 45px; -unity-font-style: bold;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="ButtonsHolder" style="flex-direction: row;">
+                <ui:VisualElement name="LaterButton" class="CornerRadius20" style="width: 320px; height: 130px; background-color: rgb(0, 176, 235); justify-content: center; align-items: center; margin-right: 20px;">
+                    <ui:Label text="Label" display-tooltip-when-elided="true" name="LaterButtonLabel" class="MainFont" style="color: rgb(255, 255, 255); font-size: 45px; -unity-font-style: bold;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="UseButton" class="CornerRadius20" style="width: 320px; height: 130px; background-color: rgb(44, 195, 82); justify-content: center; align-items: center; margin-left: 20px;">
+                    <ui:Label text="Label" display-tooltip-when-elided="true" name="UseButtonLabel" class="MainFont" style="color: rgb(255, 255, 255); -unity-font-style: bold; -unity-text-align: middle-center; font-size: 45px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

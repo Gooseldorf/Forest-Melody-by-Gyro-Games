@@ -1,0 +1,20 @@
+
+Costas_Hummingbird.png
+size: 283,185
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Costas_Hummingbird_Beak
+  rotate: true
+  xy: 250, 106
+  size: 77, 31
+  orig: 77, 31
+  offset: 0, 0
+  index: -1
+Costas_Hummingbird_Body
+  rotate: true
+  xy: 2, 2
+  size: 181, 246
+  orig: 181, 246
+  offset: 0, 0
+  index: -1

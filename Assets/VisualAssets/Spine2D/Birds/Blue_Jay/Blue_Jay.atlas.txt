@@ -1,0 +1,27 @@
+
+Blue_Jay.png
+size: 259,191
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_Jay_Body
+  rotate: false
+  xy: 2, 2
+  size: 233, 187
+  orig: 233, 187
+  offset: 0, 0
+  index: -1
+Blue_Jay_BottomBeak
+  rotate: true
+  xy: 237, 102
+  size: 45, 9
+  orig: 45, 9
+  offset: 0, 0
+  index: -1
+Blue_Jay_TopBeak
+  rotate: true
+  xy: 237, 149
+  size: 40, 20
+  orig: 40, 20
+  offset: 0, 0
+  index: -1

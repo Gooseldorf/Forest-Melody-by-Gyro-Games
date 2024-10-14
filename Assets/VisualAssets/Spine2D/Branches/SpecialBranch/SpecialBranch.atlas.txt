@@ -1,0 +1,55 @@
+
+SpecialBranch.png
+size: 1253,551
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg
+  rotate: false
+  xy: 2, 240
+  size: 967, 309
+  orig: 972, 314
+  offset: 1, 4
+  index: -1
+Bottom1
+  rotate: false
+  xy: 971, 368
+  size: 142, 181
+  orig: 143, 181
+  offset: 1, 0
+  index: -1
+Bottom2
+  rotate: true
+  xy: 971, 254
+  size: 112, 196
+  orig: 112, 196
+  offset: 0, 0
+  index: -1
+Main
+  rotate: false
+  xy: 2, 2
+  size: 1056, 236
+  orig: 1065, 242
+  offset: 4, 5
+  index: -1
+Top1
+  rotate: true
+  xy: 1060, 52
+  size: 200, 80
+  orig: 200, 81
+  offset: 0, 1
+  index: -1
+Top2
+  rotate: true
+  xy: 1115, 372
+  size: 177, 100
+  orig: 177, 102
+  offset: 0, 2
+  index: -1
+Top3
+  rotate: true
+  xy: 1169, 125
+  size: 245, 82
+  orig: 245, 82
+  offset: 0, 0
+  index: -1

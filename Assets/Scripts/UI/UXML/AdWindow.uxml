@@ -1,0 +1,21 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement class="TransparentBlack" style="flex-shrink: 0; flex-grow: 1; align-items: center; justify-content: center;">
+        <ui:VisualElement name="WindowBg" class="TopPanelColor CornerRadius25" style="width: 770px; height: 1180px; padding-left: 40px; padding-right: 40px; padding-top: 40px; padding-bottom: 40px; align-items: center; justify-content: space-between;">
+            <ui:Label text="You got a message!" display-tooltip-when-elided="true" name="TitleLabel" class="MainFont" style="font-size: 50px; -unity-font-style: bold; color: rgb(43, 43, 43); -unity-text-align: upper-center;" />
+            <ui:VisualElement name="Image" style="width: 320px; height: 320px;" />
+            <ui:Label text="Watch a vidio to get" display-tooltip-when-elided="true" name="DescLabel" class="MainFont" style="font-size: 40px; -unity-font-style: bold; color: rgb(43, 43, 43); -unity-text-align: upper-center;" />
+            <ui:VisualElement name="TextBg" class="CornerRadius20" style="background-color: rgb(231, 245, 246); width: 640px; height: 170px; justify-content: center; align-items: center; flex-direction: row;">
+                <ui:VisualElement name="Icon" style="width: 80px; height: 80px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Notes_icon.png?fileID=2800000&amp;guid=ece10f2a5d80f5d4fa6b46eee2990f1e&amp;type=3#Notes_icon&apos;);" />
+                <ui:Label text="Label" display-tooltip-when-elided="true" name="TextLabel" class="MainFont" style="color: rgb(43, 43, 43); font-size: 80px; -unity-font-style: bold;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="CancelButton" class="CornerRadius20" style="width: 640px; height: 130px; background-color: rgb(0, 176, 235); justify-content: center; align-items: center;">
+                <ui:Label text="No, thanks" display-tooltip-when-elided="true" name="CancelButtonLabel" class="MainFont" style="color: rgb(255, 255, 255); font-size: 45px; -unity-font-style: bold;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="AdButton" class="CornerRadius20" style="width: 640px; height: 186px; background-color: rgb(255, 144, 0); justify-content: space-around; align-items: center; flex-direction: row;">
+                <ui:VisualElement name="AdIcon" style="width: 100px; height: 100px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Ad_icon.png?fileID=2800000&amp;guid=511edd3cac0fec84599839c6ba31e8ff&amp;type=3#Ad_icon&apos;);" />
+                <ui:Label text="Watch the video" display-tooltip-when-elided="true" name="AdButtonLabel" class="MainFont" style="color: rgb(255, 255, 255); -unity-font-style: bold; -unity-text-align: middle-center; font-size: 45px;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

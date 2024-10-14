@@ -1,0 +1,27 @@
+
+Willow_Ptarmigan.png
+size: 315,251
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Willow_Ptarmigan_Body
+  rotate: true
+  xy: 2, 2
+  size: 247, 289
+  orig: 247, 289
+  offset: 0, 0
+  index: -1
+Willow_Ptarmigan_BottomBeak
+  rotate: true
+  xy: 293, 193
+  size: 27, 12
+  orig: 27, 12
+  offset: 0, 0
+  index: -1
+Willow_Ptarmigan_TopBeak
+  rotate: true
+  xy: 293, 222
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1

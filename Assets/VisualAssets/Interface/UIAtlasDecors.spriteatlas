@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UIAtlasDecors
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 33264b30f599c1c4685e97cd2971d743, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: dd1750554fe772e4da35fee53a73105e, type: 3}
+  - {fileID: 21300000, guid: ee98e136af069e54a8a59a20016e97d5, type: 3}
+  - {fileID: 21300000, guid: a3baf246f3bd52546857e72845f2da65, type: 3}
+  - {fileID: 21300000, guid: 65642066474ddac479828c4b7305ddb2, type: 3}
+  - {fileID: 21300000, guid: 0853c3b6d2d87f940b797d11a27fac61, type: 3}
+  - {fileID: 21300000, guid: 85d5e757aeee49540bf40a4012cda694, type: 3}
+  - {fileID: 21300000, guid: 0d3c398732373254d8f44a5852eb0f21, type: 3}
+  - {fileID: 21300000, guid: 2c327bb8c54a0284ca5ced2b56ccf30b, type: 3}
+  - {fileID: 21300000, guid: b1cde2f827f0df047b79d47f641b8217, type: 3}
+  - {fileID: 21300000, guid: 48f499c983ccd6647a7b8e720b75e99e, type: 3}
+  - {fileID: 21300000, guid: 7791b53bd3525814c9fa3eca758521ca, type: 3}
+  - {fileID: 21300000, guid: e0b810dc59a6c394f9b27a47bbfe902b, type: 3}
+  - {fileID: 21300000, guid: ffbdf0ecc87acb74193f2cc3b96b0f30, type: 3}
+  - {fileID: 21300000, guid: fd3072edf629fe14eb6ce26098a9c49a, type: 3}
+  - {fileID: 21300000, guid: 752a082fd6a54d847a9296c0a0487f9b, type: 3}
+  - {fileID: 21300000, guid: e1a7f97f084a4d6448c6354958fde8cd, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Unknown
+  - decor_tap_booster
+  - decor_decoration_effect
+  - decor_notes_production
+  - decor_offline_notes_production
+  - decor_boosters_level_up
+  - decor_hatch_time
+  - decor_offline_income_booster
+  - decor_income_booster
+  - decor_multiplier_booster
+  - decor_experience
+  - decor_level_up_reward
+  - decor_add_time_to_offline_income
+  - decor_new_branch_cost
+  - decor_bird_cost
+  - decor_bird_level_up
+  m_RenderDataMap: {}
+  m_Tag: UIAtlasDecors
+  m_IsVariant: 0

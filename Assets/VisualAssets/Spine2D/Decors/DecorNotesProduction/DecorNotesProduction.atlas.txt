@@ -1,0 +1,13 @@
+
+DecorNotesProduction.png
+size: 254,269
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 250, 265
+  orig: 250, 265
+  offset: 0, 0
+  index: -1

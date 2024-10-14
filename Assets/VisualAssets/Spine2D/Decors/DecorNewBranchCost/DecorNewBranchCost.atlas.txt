@@ -1,0 +1,13 @@
+
+DecorNewBranchCost.png
+size: 260,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 256, 233
+  orig: 256, 233
+  offset: 0, 0
+  index: -1

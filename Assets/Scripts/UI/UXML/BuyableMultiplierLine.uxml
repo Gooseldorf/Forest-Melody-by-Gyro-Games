@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="MultiplierLine" style="flex-direction: row; justify-content: space-between;">
+        <ui:VisualElement name="LeftPart" style="flex-direction: row;">
+            <ui:Label text="+" display-tooltip-when-elided="true" name="SignLabel" class="MainFont" style="color: rgb(43, 43, 43); font-size: 30px; -unity-font-style: bold; width: 25px;" />
+            <ui:Label text="x2 multiplier" display-tooltip-when-elided="true" name="MultiplierLabel" class="MainFont" style="color: rgb(0, 206, 157); font-size: 30px; -unity-font-style: bold;" />
+        </ui:VisualElement>
+        <ui:Label text="DURATION" display-tooltip-when-elided="true" name="DurationLabel" class="MainFont" style="color: rgb(0, 206, 157); font-size: 30px; -unity-font-style: bold;" />
+    </ui:VisualElement>
+</ui:UXML>

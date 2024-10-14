@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d07c3d18d85874788861dbf40646b7, type: 3}
+  m_Name: TreeData 1
+  m_EditorClassIdentifier: 
+  birdsData:
+  - {fileID: 11400000, guid: 885b4575bc78e3f4f8cd16255355bf17, type: 2}
+  - {fileID: 11400000, guid: 524783c5dde77c8459f0b399ff9abefa, type: 2}
+  - {fileID: 11400000, guid: 963aa6b047419924f8ba6d93751cd843, type: 2}
+  - {fileID: 11400000, guid: c02726e313f6ef144aa94035c08d8689, type: 2}
+  - {fileID: 11400000, guid: 0a6e0145d946928469348d7a5260cb6c, type: 2}
+  - {fileID: 11400000, guid: 817a9e45611a3d94da1ba8cf354271c2, type: 2}
+  - {fileID: 11400000, guid: b86ac4587d443d144a35d91c9f553887, type: 2}
+  - {fileID: 11400000, guid: 58c3d7ef744d55544aaa59827055a4c7, type: 2}
+  - {fileID: 11400000, guid: c7168fa78415a354db835462a86d3bdf, type: 2}
+  - {fileID: 11400000, guid: 51d96d8d7be51fc4b9678819e6553ab3, type: 2}
+  - {fileID: 11400000, guid: 2669e4f5b59efbd4fac539433f1e8453, type: 2}
+  - {fileID: 11400000, guid: c9f5c919cbee81d4490fa74ab3fbcb20, type: 2}
+  - {fileID: 11400000, guid: f61e533c91f824a42ae79a4a56d65595, type: 2}
+  - {fileID: 11400000, guid: a9549e26620de0a4387868fe77a02e0a, type: 2}
+  - {fileID: 11400000, guid: aef0f80dd4353f84dacd125a249b9ecf, type: 2}
+  - {fileID: 11400000, guid: 748c75233f01dcf41896aced604d534b, type: 2}
+  - {fileID: 11400000, guid: 59504c9057b3cc94f954e564687970b6, type: 2}
+  - {fileID: 11400000, guid: d8ba96f0e6fc8f44c83c2b9c193c8849, type: 2}
+  - {fileID: 11400000, guid: dec6caeeaae1e154c8e6af756eab7a04, type: 2}
+  - {fileID: 11400000, guid: aa81443107884214fb9b554693ff640f, type: 2}
+  - {fileID: 11400000, guid: ee931212429250440a83f5c26bd37323, type: 2}
+  - {fileID: 11400000, guid: 23a2379433033e44b9c4ef801f6c3cda, type: 2}
+  - {fileID: 11400000, guid: 9d12247147ce88f40b2b4c4f963e65d2, type: 2}
+  - {fileID: 11400000, guid: fe50a7dbbb356a94897976d75ceb0191, type: 2}
+  - {fileID: 11400000, guid: d41345b032674fc42a73e3ba0d156495, type: 2}
+  - {fileID: 11400000, guid: cafc075cbf8bae54fa64c591397c8fec, type: 2}
+  - {fileID: 11400000, guid: 554d7ceabe6196145ae6d071a220bd63, type: 2}
+  - {fileID: 11400000, guid: 7e85b4f2bf7732e40a6e32fbb20767fc, type: 2}
+  - {fileID: 11400000, guid: 4374b018ac9af314cb1ed2ca0bae9eae, type: 2}
+  - {fileID: 11400000, guid: d3cf4ae8bf59c7148930b405ca3b970b, type: 2}
+  - {fileID: 11400000, guid: ad846a6364e16594d9167a3031805d2a, type: 2}
+  - {fileID: 11400000, guid: 3256d4d04c213b44a8e36c4ea76da13f, type: 2}
+  - {fileID: 11400000, guid: a2410dc0f9063a54e9423431d4f8e5de, type: 2}
+  - {fileID: 11400000, guid: 94323cd23d36efc49bb3db0fbb30bc25, type: 2}
+  - {fileID: 11400000, guid: 1b80b155d02141a4f816f702e56de35c, type: 2}
+  - {fileID: 11400000, guid: dafad71a0189a5140b7976692dfd2514, type: 2}
+  - {fileID: 11400000, guid: 8d63bb9ff5e2a3c4293b7559e4e6c61e, type: 2}
+  - {fileID: 11400000, guid: 3702e0ab123d0bc419cbc2ca20d48bef, type: 2}
+  - {fileID: 11400000, guid: 101783e9f70cace4caaf7ff5e9a8ed1e, type: 2}
+  - {fileID: 11400000, guid: 8b724cdab1c2b944f9435eadd8bb61d1, type: 2}
+  - {fileID: 11400000, guid: 4d2d2146b7a05da46ac3f76c5fc8f660, type: 2}
+  - {fileID: 11400000, guid: 66ab3a2e7ee3d034d86a473bd52eaa53, type: 2}
+  - {fileID: 11400000, guid: 838a3af5483d6304fb13f50619cd7fc7, type: 2}
+  - {fileID: 11400000, guid: 09c4620853d10584aab6984bc425e311, type: 2}
+  - {fileID: 11400000, guid: f0541c7876c405f4ea299bb1d36fb9dd, type: 2}
+  - {fileID: 11400000, guid: 7a00007f159f2c648a6f1505b45ff88c, type: 2}
+  - {fileID: 11400000, guid: b007660ddb9bbe241afb6c311dcda64a, type: 2}
+  - {fileID: 11400000, guid: 03f1ad5093c150443be6246ec2b3d740, type: 2}
+  - {fileID: 11400000, guid: 6f4281ee074df7a488baa0a83f8a81e9, type: 2}
+  - {fileID: 11400000, guid: d8904ee55bdf60b4b9c1667207827571, type: 2}
+  - {fileID: 11400000, guid: 04165187128f26f42ade7ebf135f119c, type: 2}
+  - {fileID: 11400000, guid: 126609d4c2b513b468d9ebe61206c408, type: 2}
+  - {fileID: 11400000, guid: f520bef464239474c9005375ffac2467, type: 2}
+  - {fileID: 11400000, guid: 3737d3fc7f8a17f439d195ba6fb630cb, type: 2}
+  - {fileID: 11400000, guid: 11d2b40d218b4d04ca4d8985ea3c01b4, type: 2}
+  - {fileID: 11400000, guid: 07a405d75acdfe1478172eedc0074c0d, type: 2}
+  - {fileID: 11400000, guid: ef5184c2bd61ed64798dafb408959cc2, type: 2}
+  - {fileID: 11400000, guid: 5b95f919490bb854189f814bfa6f2b74, type: 2}
+  - {fileID: 11400000, guid: b148ba7e31e874e4bbfcb6a93a0e5e4e, type: 2}
+  - {fileID: 11400000, guid: 063fdec83ba2b934b9e1709967240235, type: 2}
+  SpecialBranchFrequency: 10
+  <ID>k__BackingField: test_tree_1
+  <UnlockCondition>k__BackingField:
+    <PlayerLevel>k__BackingField: 0
+    <TreeCount>k__BackingField: 0
+  thresholdLevel: 26
+  notesCostA: 2499.912
+  notesCostB: -9998.391
+  notesCostC: 15027.393
+  notesCostD: -10677.778
+  notesCostE: 4412.625
+  lateNotesCostA: 2477.9792
+  lateNotesCostB: -7418.456
+  lateNotesCostC: -82873.89
+  lateNotesCostD: 1170725.2
+  lateNotesCostE: -3724927.8
+  lvlA: 20
+  lvlB: -2

@@ -1,0 +1,55 @@
+
+Branch2.png
+size: 971,300
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bottom1
+  rotate: false
+  xy: 760, 2
+  size: 187, 82
+  orig: 187, 82
+  offset: 0, 0
+  index: -1
+Bottom2
+  rotate: false
+  xy: 412, 64
+  size: 180, 102
+  orig: 180, 102
+  offset: 0, 0
+  index: -1
+Bottom3
+  rotate: false
+  xy: 760, 86
+  size: 198, 80
+  orig: 199, 80
+  offset: 0, 0
+  index: -1
+Main
+  rotate: false
+  xy: 2, 168
+  size: 967, 130
+  orig: 972, 142
+  offset: 5, 7
+  index: -1
+Top1
+  rotate: false
+  xy: 2, 12
+  size: 178, 154
+  orig: 179, 154
+  offset: 1, 0
+  index: -1
+Top2
+  rotate: false
+  xy: 594, 74
+  size: 164, 92
+  orig: 164, 92
+  offset: 0, 0
+  index: -1
+Top3
+  rotate: false
+  xy: 182, 49
+  size: 228, 117
+  orig: 231, 118
+  offset: 2, 1
+  index: -1

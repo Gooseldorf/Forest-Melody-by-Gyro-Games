@@ -1,0 +1,20 @@
+
+Belted_Kingfisher.png
+size: 324,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Belted_Kingfisher_Body
+  rotate: true
+  xy: 2, 2
+  size: 250, 298
+  orig: 250, 298
+  offset: 0, 0
+  index: -1
+Belted_Kingfisher_BottomBeak
+  rotate: true
+  xy: 302, 163
+  size: 89, 20
+  orig: 89, 20
+  offset: 0, 0
+  index: -1

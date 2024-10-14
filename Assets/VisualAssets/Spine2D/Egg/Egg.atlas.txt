@@ -1,0 +1,20 @@
+
+Egg.png
+size: 199,213
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Egg_left
+  rotate: false
+  xy: 102, 2
+  size: 95, 209
+  orig: 95, 209
+  offset: 0, 0
+  index: -1
+Egg_right
+  rotate: false
+  xy: 2, 2
+  size: 98, 209
+  orig: 98, 209
+  offset: 0, 0
+  index: -1

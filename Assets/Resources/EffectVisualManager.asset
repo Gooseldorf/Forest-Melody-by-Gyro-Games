@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9371f06b436705e45b47957fd5b82204, type: 3}
+  m_Name: EffectVisualManager
+  m_EditorClassIdentifier: 
+  commonBranchVisuals:
+  - {fileID: 5624898650747854368, guid: fd9f384d57a47374988cd20fb4e753fb, type: 3}
+  - {fileID: 9131660135860695226, guid: 6739ad8af4123aa478a42ce6603b3508, type: 3}
+  - {fileID: 5027695714204845250, guid: e37c32897a74150409be7f66585320aa, type: 3}
+  - {fileID: 6979068639298888584, guid: 1936bbc1dffc87d4280a2ae0b8e3166d, type: 3}
+  specialBranchVisuals:
+  - {fileID: 4582390127347564764, guid: f7fffa69b98e2c5498c4f0490628cc28, type: 3}
+  - {fileID: 1302361376577289149, guid: 21be3084d0502eb46a1bd0ea45c75ae0, type: 3}
+  treeItemPrefabs:
+  - {fileID: 3496752802445383199, guid: 5d989c5353befdf4e95cd1602b6050b3, type: 3}
+  - {fileID: 3845363275325007072, guid: d6e3bd5ba8dedd94e8310bafb9cdbc9a, type: 3}
+  - {fileID: 4848938708980771653, guid: 52800250ccf7591438bce440eea0ee79, type: 3}
+  - {fileID: 475256821262284662, guid: 85487fb9a0685634a9b970e888394f3a, type: 3}
+  - {fileID: 1531169577749109882, guid: e80b8e1b9f1360448ac0886fae9b4368, type: 3}
+  - {fileID: 6063735551230097536, guid: 9b55dcce5e4226a4784bf36f3d48e79a, type: 3}
+  - {fileID: 2740970887753780043, guid: 6ef1dc56efd2dba4e8683730844a8c93, type: 3}
+  - {fileID: 4644441214595746276, guid: 1a972272e8a3ddf48be7f5034a023ba4, type: 3}
+  - {fileID: 4495958896372267355, guid: 12ab2b15aaab6c443be161248e45a197, type: 3}
+  - {fileID: 3276024981594244522, guid: a27c23a0b3f21ab4dbbce87c542aa14a, type: 3}
+  - {fileID: 8912135857490797483, guid: cb1eaca29bcb132429b89b40fd37092a, type: 3}
+  - {fileID: 6781018233945497763, guid: 2a97623719de4d44cba7520dd17ff2d0, type: 3}
+  - {fileID: 1550661083986718231, guid: e66729786a09acf4686e6338beaa11ec, type: 3}
+  - {fileID: 2329075286287878384, guid: 76e528000a3bff4439031284ef6b786a, type: 3}
+  - {fileID: 3471238686873864539, guid: 67038eec559c6674c8d56c7941777c9c, type: 3}
+  - {fileID: 5759731647636897891, guid: b8b8366aeb51f7147adc93447e422d8c, type: 3}
+  - {fileID: 8630797077697320596, guid: 1a45efe3cedf80a4dbecf66e055b65ec, type: 3}
+  - {fileID: 3868800980045018728, guid: 5dab439769b755442850053459d01d40, type: 3}
+  - {fileID: 391781114148216306, guid: 65bc0cc270543d8429ea8b2998946b8e, type: 3}
+  - {fileID: 4168726386513534291, guid: 16f71676df65d674aada5f8060916534, type: 3}
+  - {fileID: 3128240487726462751, guid: 1f593225db890e048a7caa3ee64a33fa, type: 3}
+  - {fileID: 4694724755729513393, guid: 669eb25f28a426b4892f42225aebcd59, type: 3}
+  - {fileID: 372774441245184276, guid: 38cd481acfe1a1941948c1334a411c0f, type: 3}
+  - {fileID: 1104054778607116435, guid: b54ca4a1a49d0b24eb41a95d2a0c4146, type: 3}
+  - {fileID: 9008841524413305190, guid: da1b9b8b96f2d8441a7b5e16889dc171, type: 3}
+  - {fileID: 4003968366387192461, guid: 68c11a230d02ce74b99afc0490ca0879, type: 3}
+  - {fileID: 1073906521776331321, guid: 6b1d78192aa4ecf4cb12b06783143293, type: 3}
+  - {fileID: 2267153721820205290, guid: 29636a7c88b1e98429ce5817c95bc931, type: 3}
+  - {fileID: 7678138639093288611, guid: ecae981057a71d14fae862110dfd77fc, type: 3}
+  - {fileID: 6219554897499070824, guid: afd022bc0e89b2546876e5507b52c6a5, type: 3}
+  - {fileID: 7722008103573047959, guid: 05bc2106358bac64b8a78789242a50e2, type: 3}
+  - {fileID: 1260774766982508185, guid: f924871402777a346b7bcee6a4fe8afc, type: 3}
+  - {fileID: 342589767995537619, guid: 163519b44cb997541afdb4a57a264bb4, type: 3}
+  - {fileID: 2197057663795021436, guid: 6c21bc7b703ec7d4a9557ce1809ae469, type: 3}
+  - {fileID: 7272149050816135411, guid: bce557d3bc07fed4aae206cd719b92e8, type: 3}
+  - {fileID: 7591655091808818224, guid: 17f8e1657a485aa42b725eb08abd2fa3, type: 3}
+  - {fileID: 5196241207692319500, guid: 363184499cca23d4eaa706f7562b030a, type: 3}
+  - {fileID: 9137917753422030305, guid: eaf472163cafb3b4a8945653d6d9f099, type: 3}
+  tapEffectPrefab: {fileID: 7598323415222824402, guid: 04dfdd338a3017b4f95bda64e427e8ac, type: 3}
+  tapEffectPoolSize: 200
+  birdsAtlas: {fileID: 4343727234628468602, guid: e8433463af9c2be4f80159cf8e5ece57, type: 2}
+  decorAtlas: {fileID: 4343727234628468602, guid: c48510c501201fd458797c6da9ce4462, type: 2}

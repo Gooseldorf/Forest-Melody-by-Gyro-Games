@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/USS/ProgressBar.uss?fileID=7433441132597879392&amp;guid=93bdabb9b1667cd4eb032a4e62044d9e&amp;type=3#ProgressBar" />
+    <ui:VisualElement style="height: 14px;">
+        <ui:VisualElement name="Bg" class="progressbar_bg_blue" style="flex-grow: 1; flex-shrink: 0;">
+            <ui:VisualElement name="Fg" class="progressbar_fg_blue" style="flex-grow: 1; flex-shrink: 0;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

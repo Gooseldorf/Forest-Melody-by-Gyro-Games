@@ -1,0 +1,27 @@
+
+Indigo_Bunting.png
+size: 292,204
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Indigo_Bunting_Body
+  rotate: true
+  xy: 2, 2
+  size: 200, 266
+  orig: 200, 266
+  offset: 0, 0
+  index: -1
+Indigo_Bunting_BottomBeak
+  rotate: true
+  xy: 270, 115
+  size: 43, 12
+  orig: 43, 12
+  offset: 0, 0
+  index: -1
+Indigo_Bunting_TopBeak
+  rotate: true
+  xy: 270, 160
+  size: 42, 20
+  orig: 42, 20
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,81 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f6bf4194185f0249bd07f26025903d7, type: 3}
+  m_Name: DataHolder
+  m_EditorClassIdentifier: 
+  treesData:
+  - {fileID: 11400000, guid: 4ead9289309f65548af1bab03e067351, type: 2}
+  - {fileID: 11400000, guid: f8f59ca0bacb4b74e8160cce6846199a, type: 2}
+  - {fileID: 11400000, guid: 4ed4648e1fdeaa24cb9f64b21251168d, type: 2}
+  decorsData:
+  - {fileID: 11400000, guid: 78d35a8e0eef4864b8f0ef7e51e06b6f, type: 2}
+  - {fileID: 11400000, guid: 751137806c5a60a49a47da7081eb54d3, type: 2}
+  - {fileID: 11400000, guid: 99dd00d08ffd4424ebdca916b0ede3e7, type: 2}
+  - {fileID: 11400000, guid: 4ccd632917cca7d4caccb3a64baafe73, type: 2}
+  - {fileID: 11400000, guid: a3466599edc02e343b9be69f6ba7245f, type: 2}
+  - {fileID: 11400000, guid: 6eca07c4cbfab984ea42da5fe9afb316, type: 2}
+  - {fileID: 11400000, guid: fb4219b4d69d3ea439cc223bad699cb8, type: 2}
+  - {fileID: 11400000, guid: c97e3182dfbd02d4fb4c19d61566a369, type: 2}
+  - {fileID: 11400000, guid: d25218c579e357d45bfaea0da7f1ceb3, type: 2}
+  - {fileID: 11400000, guid: a1b08f2669f0343489c427a2e789a56e, type: 2}
+  - {fileID: 11400000, guid: e7b1a88c202480540aa0618c6a2930f8, type: 2}
+  - {fileID: 11400000, guid: 7721a08d12a4dbb49affac6241efd94b, type: 2}
+  - {fileID: 11400000, guid: fef19e9029e420848ad03fd6d9a847d3, type: 2}
+  - {fileID: 11400000, guid: 0edd375089ff86a4caf5699744834ebe, type: 2}
+  - {fileID: 11400000, guid: 364eda7b21c62a74483ef69568c2835d, type: 2}
+  buyableMultipliersData:
+  - {fileID: 11400000, guid: 1837eaec3c49fd946b22a164a32e5eb5, type: 2}
+  - {fileID: 11400000, guid: 79ae6796f41ccb649832f9ffab0f9e89, type: 2}
+  - {fileID: 11400000, guid: 6436e508e04b35b4a8ab22112c0ca2eb, type: 2}
+  - {fileID: 11400000, guid: f7247a96fe4b5354589438adf5e13de5, type: 2}
+  - {fileID: 11400000, guid: 9acce6a23975ced40b5c3203379defd7, type: 2}
+  - {fileID: 11400000, guid: 7007e1b333c7f404b80fbbcb5cccf56d, type: 2}
+  buyableTimeSkipsData:
+  - {fileID: 11400000, guid: 884a15f3bb2d22441b00b0de8001d69a, type: 2}
+  - {fileID: 11400000, guid: a391ad271f443de4894142ccf6e88e9f, type: 2}
+  - {fileID: 11400000, guid: 86a756b3bc211c54ebac8454883be98e, type: 2}
+  crystalPacks:
+  - {fileID: 11400000, guid: 6507f4683df84444aa65249b097a65ef, type: 2}
+  - {fileID: 11400000, guid: aeb2045a6f90a724d909b4121372c8cd, type: 2}
+  - {fileID: 11400000, guid: 8ccab6869f40dec45b912cb92475046e, type: 2}
+  - {fileID: 11400000, guid: f7323630d875d7e4fa48cae1a502a105, type: 2}
+  - {fileID: 11400000, guid: 380943ee1c901c0498e6272d589766b6, type: 2}
+  - {fileID: 11400000, guid: f186d3ef8a44a5748b5c8a2c4a8b44e5, type: 2}
+  soundsData:
+  - {fileID: 8300000, guid: 2ba7dd8f0b8f394478a36d14872ffb39, type: 3}
+  - {fileID: 8300000, guid: a2664dfbed5fd7c4fb61f792cd2f4387, type: 3}
+  - {fileID: 8300000, guid: 38fe445e612d4264e8a3194eb06622ed, type: 3}
+  - {fileID: 8300000, guid: ed543e38ea8a98846a7c71faa119dc1b, type: 3}
+  - {fileID: 8300000, guid: 6d07e2df7f2dbe24bb5d8865a7abc029, type: 3}
+  - {fileID: 8300000, guid: 01f880907e5bcdc4db4a33e2aba6704e, type: 3}
+  - {fileID: 8300000, guid: 989bdab1421862049ac69a9e98d6b308, type: 3}
+  - {fileID: 8300000, guid: f0b5f40767c8f1045a07defd85527590, type: 3}
+  - {fileID: 8300000, guid: a19ae7a0e52c703449b31566779f8569, type: 3}
+  - {fileID: 8300000, guid: b5e6705cfda580a40aea78570b178a00, type: 3}
+  - {fileID: 8300000, guid: bb2e8ff3a52febb4baf00766952f21b0, type: 3}
+  - {fileID: 8300000, guid: 355392b50f094f0418da5937f459cf61, type: 3}
+  birdSounds:
+  - {fileID: 8300000, guid: b5e6705cfda580a40aea78570b178a00, type: 3}
+  - {fileID: 8300000, guid: ac9b231720e25a34188b75daf33ae2d7, type: 3}
+  - {fileID: 8300000, guid: 929a2279b11d5674bba468ec8099bafa, type: 3}
+  IncomeBoosterData: {fileID: 11400000, guid: 128a3b421d36ba34684b90f9a07cab82, type: 2}
+  TapBoosterData: {fileID: 11400000, guid: c8df7b8a6d602ad48a07bccbc612707c, type: 2}
+  MultiplierBoosterData: {fileID: 11400000, guid: 5e8a3c892f72d364bb04aff49d0bf97e, type: 2}
+  OfflineBoosterData: {fileID: 11400000, guid: 6a3626236f7a10a4f85c5a591aef3e63, type: 2}
+  thresholdLevel: 14
+  nextLvlExpA: 500
+  nextLvlExpPOW: 2.631
+  lateNextLvlExpA: 654.73
+  lateNextLvlExpPOW: 2.6
+  nextLvlRewardA: 500
+  nextLvlRewardPOW: 1.75
+  <OfflineIncomeTimeLimit>k__BackingField: 28800

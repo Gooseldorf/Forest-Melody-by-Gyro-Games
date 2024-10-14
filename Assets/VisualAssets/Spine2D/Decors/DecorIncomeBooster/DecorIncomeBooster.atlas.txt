@@ -1,0 +1,13 @@
+
+DecorIncomeBooster.png
+size: 202,261
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 198, 257
+  orig: 198, 257
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,20 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement class="CornerRadius20" style="background-color: rgb(255, 255, 255); flex-direction: row; flex-grow: 0; flex-wrap: nowrap; justify-content: space-between; align-items: center; margin-left: 16px; margin-right: 16px; margin-top: 10px; margin-bottom: 10px; height: 140px;">
+        <ui:VisualElement name="LeftContainer" style="flex-direction: row;">
+            <ui:VisualElement name="Icon" class="CornerRadius20" style="width: 140px; height: 140px; background-color: rgb(134, 233, 255); align-items: center;" />
+            <ui:VisualElement name="TextContainer" style="justify-content: space-around; margin-left: 10px; height: 140px;">
+                <ui:Label text="Colibri" display-tooltip-when-elided="true" name="NameLabel" enable-rich-text="true" class="MainFont" style="font-size: 35px; -unity-font-style: bold;" />
+                <ui:Label text="Level 5" display-tooltip-when-elided="true" name="LevelLabel" style="font-size: 30px;" />
+                <ui:Label text="1.0 notes/s" display-tooltip-when-elided="true" name="DescLabel" style="font-size: 30px; color: rgb(52, 218, 178);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="Button" class="CornerRadius20 BlueBg" style="width: 250px; height: 100px; margin-right: 20px; justify-content: center; background-color: rgb(0, 176, 235);">
+            <ui:Label text="Plant" display-tooltip-when-elided="true" name="ButtonLabel" class="MainFont" style="color: rgb(255, 255, 255); font-size: 30px; -unity-font-style: bold; -unity-text-align: upper-center;" />
+            <ui:VisualElement name="BottomButtonPart" style="flex-direction: row; justify-content: center; align-items: center; display: flex;">
+                <ui:VisualElement name="PriceCurrancy" style="width: 30px; height: 30px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Notes_icon.png?fileID=2800000&amp;guid=ece10f2a5d80f5d4fa6b46eee2990f1e&amp;type=3#Notes_icon&apos;);" />
+                <ui:Label text="1,53m" display-tooltip-when-elided="true" name="PriceLabel" class="MainFont" style="color: rgb(255, 255, 255); font-size: 30px; -unity-font-style: bold; -unity-text-align: upper-center;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

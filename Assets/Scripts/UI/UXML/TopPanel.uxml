@@ -1,0 +1,29 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="CurrencyWidget" src="project://database/Assets/Scripts/UI/UXML/CrystalWidget.uxml?fileID=9197481963319205126&amp;guid=1295154d40652cc4d868ec62889c63e2&amp;type=3#CrystalWidget" />
+    <ui:Template name="ProgressBar" src="project://database/Assets/Scripts/UI/UXML/ProgressBarBlue.uxml?fileID=9197481963319205126&amp;guid=4d954f68134868a4d8313f4e23ba86c4&amp;type=3#ProgressBarBlue" />
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement class="TopPanelColor" style="height: 114px; flex-direction: row; justify-content: space-between; align-items: center; border-bottom-left-radius: 20px; border-bottom-right-radius: 20px;">
+        <ui:VisualElement name="LeftButtons" style="flex-direction: row;">
+            <ui:VisualElement name="SettingButton" style="width: 100px; height: 100px; margin-left: 10px; justify-content: center; align-items: center;">
+                <ui:VisualElement name="SettingIcon" style="width: 60px; height: 60px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Settings_icon.png?fileID=21300000&amp;guid=d4fec7f3d362c14489b89caea6bbdecc&amp;type=3#Settings_icon&apos;);" />
+            </ui:VisualElement>
+            <ui:VisualElement name="EditButton" style="width: 100px; height: 100px; margin-left: 10px; justify-content: center; align-items: center;">
+                <ui:VisualElement name="EditIcon" style="width: 65px; height: 67px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Edit_icon.png?fileID=2800000&amp;guid=3c68ef5b85fb8064f82ed4fa94cff567&amp;type=3#Edit_icon&apos;);" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:Instance template="CurrencyWidget" name="CrystalWidget" />
+        <ui:Instance template="CurrencyWidget" name="NotesWidget" />
+        <ui:VisualElement style="width: 230px; margin-right: 10px;">
+            <ui:VisualElement name="LevelInfo" style="align-items: center; justify-content: center;">
+                <ui:Label text="Level 25" display-tooltip-when-elided="true" name="LevelLabel" class="MainFont" style="font-size: 35px;" />
+                <ui:Instance template="ProgressBar" name="LevelProgressBar" style="width: 220px; height: 14px;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="LevelUpButton" class="CornerRadius20" style="width: 210px; height: 64px; background-color: rgb(255, 144, 0); justify-content: center; font-size: 30px; -unity-font-style: bold; display: none;">
+                <ui:Label text="Level up" display-tooltip-when-elided="true" name="LevelUpLabel" class="MainFont" style="color: rgb(255, 255, 255); -unity-text-align: upper-center;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="DoneButton" class="CornerRadius20" style="width: 210px; height: 64px; background-color: rgb(0, 176, 235); justify-content: center; font-size: 30px; -unity-font-style: bold; display: none;">
+                <ui:Label text="Done" display-tooltip-when-elided="true" name="DoneLabel" class="MainFont" style="color: rgb(255, 255, 255); -unity-text-align: upper-center;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

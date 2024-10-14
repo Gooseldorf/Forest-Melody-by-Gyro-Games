@@ -1,0 +1,27 @@
+
+Scissor_Tailed_Flycatcher.png
+size: 309,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Scissor_Tailed_Flycatcher_Body
+  rotate: true
+  xy: 2, 2
+  size: 235, 290
+  orig: 235, 290
+  offset: 0, 0
+  index: -1
+Scissor_Tailed_Flycatcher_BottomBeak
+  rotate: true
+  xy: 294, 193
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+Scissor_Tailed_Flycatcher_TopBeak
+  rotate: true
+  xy: 294, 217
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1

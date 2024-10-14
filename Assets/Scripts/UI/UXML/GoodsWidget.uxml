@@ -1,0 +1,17 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement name="Bg" class="CornerRadius20" style="width: 300px; height: 430px; align-items: center; justify-content: space-between; margin-left: 10px; margin-right: 10px; margin-top: 10px; margin-bottom: 10px; background-color: rgb(72, 72, 72);">
+        <ui:VisualElement name="BgMask" class="CornerRadius20" style="width: 300px; height: 430px; align-items: center; justify-content: center; position: absolute; overflow: hidden;">
+            <ui:VisualElement name="BgImage" class="CornerRadius20" style="min-width: 512px; min-height: 512px; width: 512px; height: 512px;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="TopHolder" style="width: 230px; height: 44px; background-color: rgb(255, 255, 255); border-bottom-left-radius: 20px; border-bottom-right-radius: 20px; flex-direction: row; justify-content: center; align-items: center;">
+            <ui:VisualElement name="Icon" style="width: 40px; height: 40px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Notes_icon.png?fileID=2800000&amp;guid=ece10f2a5d80f5d4fa6b46eee2990f1e&amp;type=3#Notes_icon&apos;);" />
+            <ui:Label text="10,67m" display-tooltip-when-elided="true" name="TopLabel" class="MainFont" style="-unity-text-align: middle-center; font-size: 30px; -unity-font-style: bold; color: rgb(0, 0, 0);" />
+        </ui:VisualElement>
+        <ui:VisualElement name="Image" style="width: 256px; height: 256px;" />
+        <ui:VisualElement name="Button" class="CornerRadius20" style="width: 256px; height: 100px; background-color: rgb(1, 177, 236); justify-content: center; align-items: center; flex-direction: row; margin-bottom: 18px;">
+            <ui:VisualElement name="ButtonIcon" style="width: 40px; height: 40px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Crystal_icon.png?fileID=2800000&amp;guid=4a1cecd617bb85547aa484ac8cec0ab3&amp;type=3#Crystal_icon&apos;);" />
+            <ui:Label text="3000" display-tooltip-when-elided="true" name="ButtonLabel" class="MainFont" style="-unity-text-align: middle-center; font-size: 35px; -unity-font-style: bold; color: rgb(255, 255, 255);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

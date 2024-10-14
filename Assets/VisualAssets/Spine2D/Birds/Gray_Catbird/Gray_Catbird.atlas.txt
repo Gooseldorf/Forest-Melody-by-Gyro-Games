@@ -1,0 +1,27 @@
+
+Gray_Catbird.png
+size: 254,234
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Gray_Catbird_Body
+  rotate: true
+  xy: 2, 2
+  size: 230, 241
+  orig: 230, 241
+  offset: 0, 0
+  index: -1
+Gray_Catbird_BottomBeak
+  rotate: true
+  xy: 245, 202
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1
+Gray_Catbird_TopBeak
+  rotate: true
+  xy: 245, 170
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1

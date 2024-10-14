@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1a0f0c350924c7d90a491d9fc8b9b86, type: 3}
+  m_Name: TapBoosterData
+  m_EditorClassIdentifier: 
+  <TapsPerSecond>k__BackingField: 10
+  levelUpCostA: 750
+  levelUpCostPOW: 2.25
+  coolDownA: 243
+  durationA: 4

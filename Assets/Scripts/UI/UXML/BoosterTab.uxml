@@ -1,0 +1,24 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Template name="SquareWidget" src="project://database/Assets/Scripts/UI/UXML/SquareWidget.uxml?fileID=9197481963319205126&amp;guid=3f2f193003710d24c99a4f2b19d191e1&amp;type=3#SquareWidget" />
+    <ui:Template name="BirdItemWidget" src="project://database/Assets/Scripts/UI/UXML/BirdItemWidget.uxml?fileID=9197481963319205126&amp;guid=d136aab624738a74ba4b8a432e316278&amp;type=3#BirdItemWidget" />
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement style="margin-left: 24px; margin-right: 24px; background-color: rgb(255, 255, 255);">
+        <ui:Label text="Inventory" display-tooltip-when-elided="true" name="InventoryLabel" class="MainFont" style="-unity-text-align: middle-center; font-size: 50px; -unity-font-style: bold; height: 128px;" />
+        <ui:ScrollView scroll-deceleration-rate="0,135" elasticity="0,1" mode="Horizontal" horizontal-scroller-visibility="Hidden" name="ByableList" vertical-scroller-visibility="Hidden" class="CornerRadius20" style="margin-left: 16px; margin-right: 16px; background-color: rgb(227, 255, 255); padding-left: 9px; padding-right: 9px; padding-top: 17px; padding-bottom: 17px; height: 276px; flex-shrink: 0; flex-direction: row; justify-content: flex-end;">
+            <ui:Instance template="SquareWidget" name="ShopButton" style="padding-left: 9px; padding-right: 9px;" />
+        </ui:ScrollView>
+        <ui:Label text="Free Boosters" display-tooltip-when-elided="true" name="TabTitle" class="MainFont" style="-unity-text-align: middle-center; font-size: 50px; -unity-font-style: bold; height: 128px;" />
+        <ui:VisualElement name="FreeBoosters" class="CornerRadius20" style="background-color: rgb(227, 255, 255); flex-direction: row; justify-content: space-around; align-items: center; flex-shrink: 0; height: 276px; margin-left: 16px; margin-right: 16px;">
+            <ui:Instance template="SquareWidget" name="ReloadButton" style="width: 230px; height: 240px;" />
+            <ui:Instance template="SquareWidget" name="MultiplierButton" />
+            <ui:Instance template="SquareWidget" name="TapButton" />
+            <ui:Instance template="SquareWidget" name="IncomeButton" />
+        </ui:VisualElement>
+        <ui:ScrollView vertical-scroller-visibility="Hidden" name="ScrollView" class="CornerRadius20" style="padding-top: 15px; margin-left: 16px; margin-right: 16px; background-color: rgb(227, 255, 255); margin-bottom: 100px; margin-top: 20px;">
+            <ui:Instance template="BirdItemWidget" name="MultiplierBoosterWidget" />
+            <ui:Instance template="BirdItemWidget" name="TapBoosterWidget" />
+            <ui:Instance template="BirdItemWidget" name="IncomeBoosterWidget" />
+            <ui:Instance template="BirdItemWidget" name="OfflineBoosterWidget" />
+        </ui:ScrollView>
+    </ui:VisualElement>
+</ui:UXML>

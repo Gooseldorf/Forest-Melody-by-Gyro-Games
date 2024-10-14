@@ -1,0 +1,20 @@
+
+DecorAddTimeToOfflineIncome.png
+size: 427,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 2, 2
+  size: 228, 259
+  orig: 228, 259
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 263, 58
+  size: 172, 162
+  orig: 172, 162
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,7 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement style="margin-left: 24px; margin-right: 24px; background-color: rgb(255, 255, 255); flex-grow: 1;">
+        <ui:Label text="Birds Collection" display-tooltip-when-elided="true" name="TabTitle" class="MainFont" style="-unity-text-align: middle-center; font-size: 50px; -unity-font-style: bold; height: 128px;" />
+        <ui:ScrollView vertical-scroller-visibility="Hidden" name="ScrollView" class="CornerRadius20" style="padding-top: 15px; margin-left: 16px; margin-right: 16px; background-color: rgb(227, 255, 255); margin-bottom: 100px;" />
+    </ui:VisualElement>
+</ui:UXML>

@@ -1,0 +1,27 @@
+
+Pileated_Woodpecker.png
+size: 343,199
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Pileated_Woodpecker_Body
+  rotate: true
+  xy: 2, 2
+  size: 195, 316
+  orig: 195, 316
+  offset: 0, 0
+  index: -1
+Pileated_Woodpecker_BottomBeak
+  rotate: true
+  xy: 320, 14
+  size: 89, 14
+  orig: 89, 14
+  offset: 0, 0
+  index: -1
+Pileated_Woodpecker_TopBeak
+  rotate: true
+  xy: 320, 105
+  size: 92, 21
+  orig: 92, 21
+  offset: 0, 0
+  index: -1

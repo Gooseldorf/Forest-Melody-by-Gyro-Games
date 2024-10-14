@@ -1,0 +1,41 @@
+
+Branch4.png
+size: 1563,152
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bottom1
+  rotate: false
+  xy: 1295, 71
+  size: 175, 79
+  orig: 175, 79
+  offset: 0, 0
+  index: -1
+Bottom2
+  rotate: true
+  xy: 1185, 2
+  size: 148, 108
+  orig: 148, 109
+  offset: 0, 1
+  index: -1
+Bottom3
+  rotate: true
+  xy: 1472, 8
+  size: 142, 89
+  orig: 142, 90
+  offset: 0, 1
+  index: -1
+Main
+  rotate: false
+  xy: 2, 5
+  size: 1008, 145
+  orig: 1013, 155
+  offset: 5, 5
+  index: -1
+Top1
+  rotate: false
+  xy: 1012, 15
+  size: 171, 135
+  orig: 171, 135
+  offset: 0, 0
+  index: -1

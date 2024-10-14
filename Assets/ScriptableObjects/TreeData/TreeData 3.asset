@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02d07c3d18d85874788861dbf40646b7, type: 3}
+  m_Name: TreeData 3
+  m_EditorClassIdentifier: 
+  <ID>k__BackingField: test_tree_3
+  <UnlockCondition>k__BackingField:
+    <PlayerLevel>k__BackingField: 245
+    <TreeCount>k__BackingField: 2
+    <NoteCost>k__BackingField: 731250000
+    <CrystalCost>k__BackingField: 0
+  birdsData:
+  - {fileID: 11400000, guid: 885b4575bc78e3f4f8cd16255355bf17, type: 2}
+  - {fileID: 11400000, guid: 524783c5dde77c8459f0b399ff9abefa, type: 2}
+  - {fileID: 11400000, guid: 963aa6b047419924f8ba6d93751cd843, type: 2}
+  thresholdLevel: 26
+  notesCostA: 2499.912
+  notesCostB: -9998.391
+  notesCostC: 15027.39
+  notesCostD: -10677.78
+  notesCostE: 4412.625
+  lateNotesCostA: 2477.979
+  lateNotesCostB: -7418.456
+  lateNotesCostC: -82873.89
+  lateNotesCostD: 1170725
+  lateNotesCostE: -3724928
+  lvlA: 20
+  lvlB: -2
+  unlockSecondTreeLvl: 120
+  unlockSecondTreeCost: 13400000
+  unlockThirdTreeLvl: 245
+  unlockThirdTreeCost: 731250000

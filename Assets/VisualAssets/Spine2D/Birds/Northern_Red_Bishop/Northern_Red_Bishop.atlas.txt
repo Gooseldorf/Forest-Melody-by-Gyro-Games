@@ -1,0 +1,27 @@
+
+Northern_Red_Bishop.png
+size: 317,236
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Northern_Red_Bishop_Body
+  rotate: true
+  xy: 2, 2
+  size: 232, 291
+  orig: 232, 291
+  offset: 0, 0
+  index: -1
+Northern_Red_Bishop_BottomBeak
+  rotate: true
+  xy: 295, 156
+  size: 38, 10
+  orig: 38, 10
+  offset: 0, 0
+  index: -1
+Northern_Red_Bishop_TopBeak
+  rotate: true
+  xy: 295, 196
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1

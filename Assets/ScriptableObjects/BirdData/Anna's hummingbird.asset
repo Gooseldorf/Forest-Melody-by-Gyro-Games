@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b9e8ad7974afc5e4b8a6b1c33bb4475a, type: 3}
+  m_Name: Anna's hummingbird
+  m_EditorClassIdentifier: 
+  index: 4
+  <ID>k__BackingField: anna's_hummingbird
+  <Condition>k__BackingField:
+    <PlayerLevel>k__BackingField: 10
+    <TreeCount>k__BackingField: 1
+  hatchTimeA: 0.6131
+  hatchTimeB: 7.85119
+  hatchTimeC: -3.83929
+  buildCostA: 0
+  buildCostB: 329.3611
+  buildCostC: -1985.298
+  buildCostD: 5466.293
+  buildCostE: -5297.786
+  notesA: 1.3315
+  notesB: -0.1746
+  thresholdLevel: 10
+  lvlUpA: 30.43016
+  lvlUpPOW: 3.74917
+  lvlUpEPOW: 0.09438
+  LateLvlUpA: 39.15016
+  LateLvlUpPOW: 3.75324
+  LateLvlUpEPOW: 0.07332

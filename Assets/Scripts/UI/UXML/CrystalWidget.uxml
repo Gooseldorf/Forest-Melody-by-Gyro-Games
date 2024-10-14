@@ -1,0 +1,8 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement class="CornerRadius15 TopPanelSecondColor" style="width: 274px; height: 60px; flex-direction: row; align-items: center; justify-content: space-between;">
+        <ui:VisualElement name="CurrencyImage" style="width: 40px; height: 40px; margin-left: 10px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/Crystal_icon.png?fileID=2800000&amp;guid=4a1cecd617bb85547aa484ac8cec0ab3&amp;type=3#Crystal_icon&apos;);" />
+        <ui:Label text="111444" display-tooltip-when-elided="true" name="CurrencyLabel" class="MainFont" style="font-size: 35px; -unity-font-style: bold;" />
+        <ui:Button text="+" display-tooltip-when-elided="true" name="ShopButton" class="CornerRadius20" style="width: 44px; height: 44px; padding-left: 1px; padding-right: 0; padding-top: 0; padding-bottom: 6px; margin-left: 0; margin-right: 10px; margin-top: 0; margin-bottom: 0; background-color: rgb(20, 173, 82); border-left-width: 0; border-right-width: 0; border-top-width: 0; border-bottom-width: 0; font-size: 50px; color: rgb(255, 255, 255); -unity-font-style: bold;" />
+    </ui:VisualElement>
+</ui:UXML>

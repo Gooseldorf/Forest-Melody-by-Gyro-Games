@@ -1,0 +1,27 @@
+
+House_Wren.png
+size: 255,188
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+House_Wren_Body
+  rotate: false
+  xy: 2, 2
+  size: 226, 184
+  orig: 226, 184
+  offset: 0, 0
+  index: -1
+House_Wren_BottomBeak
+  rotate: true
+  xy: 230, 97
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+House_Wren_TopBeak
+  rotate: true
+  xy: 230, 142
+  size: 44, 23
+  orig: 44, 23
+  offset: 0, 0
+  index: -1

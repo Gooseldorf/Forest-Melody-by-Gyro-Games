@@ -1,0 +1,27 @@
+
+Summer_Tanager.png
+size: 377,239
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Summer_Tanager_Body
+  rotate: true
+  xy: 2, 2
+  size: 235, 342
+  orig: 235, 342
+  offset: 0, 0
+  index: -1
+Summer_Tanager_BottomBeak
+  rotate: true
+  xy: 346, 188
+  size: 49, 29
+  orig: 49, 29
+  offset: 0, 0
+  index: -1
+Summer_Tanager_TopBeak
+  rotate: true
+  xy: 346, 141
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+DecorMultiplierBooster.png
+size: 304,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 2
+  size: 300, 259
+  orig: 300, 259
+  offset: 0, 0
+  index: -1

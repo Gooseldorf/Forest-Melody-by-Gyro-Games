@@ -1,0 +1,27 @@
+
+Green_Jay.png
+size: 273,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Green_Jay_Body
+  rotate: false
+  xy: 2, 2
+  size: 246, 170
+  orig: 246, 170
+  offset: 0, 0
+  index: -1
+Green_Jay_BottomBeak
+  rotate: true
+  xy: 250, 135
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+Green_Jay_TopBeak
+  rotate: true
+  xy: 250, 103
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

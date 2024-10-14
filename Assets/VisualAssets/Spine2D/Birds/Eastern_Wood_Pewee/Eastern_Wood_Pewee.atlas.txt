@@ -1,0 +1,27 @@
+
+Eastern_Wood_Pewee.png
+size: 296,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eastern_Wood_Pewee_Body
+  rotate: true
+  xy: 2, 2
+  size: 170, 276
+  orig: 170, 276
+  offset: 0, 0
+  index: -1
+Eastern_Wood_Pewee_BottomBeak
+  rotate: true
+  xy: 280, 88
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+Eastern_Wood_Pewee_TopBeak
+  rotate: true
+  xy: 280, 131
+  size: 41, 14
+  orig: 41, 14
+  offset: 0, 0
+  index: -1

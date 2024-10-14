@@ -1,0 +1,27 @@
+
+Black_Billed_Cuckoo.png
+size: 359,226
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Black_Billed_Cuckoo_Body
+  rotate: true
+  xy: 2, 2
+  size: 222, 338
+  orig: 222, 338
+  offset: 0, 0
+  index: -1
+Black_Billed_Cuckoo_BotomBeak
+  rotate: true
+  xy: 342, 130
+  size: 45, 10
+  orig: 45, 10
+  offset: 0, 0
+  index: -1
+Black_Billed_Cuckoo_TopBeak
+  rotate: true
+  xy: 342, 177
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1

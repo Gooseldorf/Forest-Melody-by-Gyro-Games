@@ -1,0 +1,20 @@
+
+Chimney_Swift.png
+size: 276,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Chimney_Swift_Beak
+  rotate: true
+  xy: 262, 219
+  size: 33, 12
+  orig: 33, 12
+  offset: 0, 0
+  index: -1
+Chimney_Swift_Body
+  rotate: true
+  xy: 2, 2
+  size: 250, 258
+  orig: 250, 258
+  offset: 0, 0
+  index: -1

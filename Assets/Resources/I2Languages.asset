@@ -1,0 +1,1197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f0b0c553be8edd4682e9180fdd13e37, type: 3}
+  m_Name: I2Languages
+  m_EditorClassIdentifier: 
+  mSource:
+    UserAgreesToHaveItOnTheScene: 0
+    UserAgreesToHaveItInsideThePluginsFolder: 0
+    GoogleLiveSyncIsUptoDate: 1
+    mTerms:
+    - Term: BirdsCollection
+      TermType: 0
+      Description: 
+      Languages:
+      - Birds Collection
+      - "\u041A\u043E\u043B\u043B\u0435\u043A\u0446\u0438\u044F \u043F\u0442\u0438\u0446"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: FreeBoosters
+      TermType: 0
+      Description: 
+      Languages:
+      - Free Boosters
+      - "\u0423\u0441\u0438\u043B\u0435\u043D\u0438\u044F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Inventory
+      TermType: 0
+      Description: 
+      Languages:
+      - Inventory
+      - "\u0418\u043D\u0432\u0435\u043D\u0442\u0430\u0440\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decoration
+      TermType: 0
+      Description: 
+      Languages:
+      - Decoration
+      - "\u0423\u043A\u0440\u0430\u0448\u0435\u043D\u0438\u044F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Level
+      TermType: 0
+      Description: 
+      Languages:
+      - Level
+      - "\u0423\u0440\u043E\u0432\u0435\u043D\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Plant
+      TermType: 0
+      Description: 
+      Languages:
+      - Plant
+      - "\u041F\u043E\u0441\u0442\u0430\u0432\u0438\u0442\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Upgrade
+      TermType: 0
+      Description: 
+      Languages:
+      - Upgrade
+      - "\u0423\u043B\u0443\u0447\u0448\u0438\u0442\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: NotesPerSec
+      TermType: 0
+      Description: 
+      Languages:
+      - notes/s
+      - "\u043D\u043E\u0442\u043E\u043A/\u0441"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Egg
+      TermType: 0
+      Description: 
+      Languages:
+      - Egg
+      - "\u042F\u0439\u0446\u043E"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Require
+      TermType: 0
+      Description: 
+      Languages:
+      - Require
+      - "\u0422\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Locked
+      TermType: 0
+      Description: 
+      Languages:
+      - Locked
+      - "\u0417\u0430\u043A\u0440\u044B\u0442\u043E"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Unknown
+      TermType: 0
+      Description: 
+      Languages:
+      - Unknown
+      - "\u041D\u0435\u0438\u0437\u0432\u0435\u0441\u0442\u043D\u043E"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UnlockBirds
+      TermType: 0
+      Description: 
+      Languages:
+      - Unlock birds
+      - "\u041E\u0442\u043A\u0440\u044B\u0432\u0430\u0439\u0442\u0435 \u043F\u0442\u0438\u0446"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Collect
+      TermType: 0
+      Description: 
+      Languages:
+      - Collect
+      - "\u0421\u043E\u0431\u0440\u0430\u0442\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: ByWatchingAd
+      TermType: 0
+      Description: 
+      Languages:
+      - by watching short ad
+      - "\u043F\u043E\u0441\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u043A\u043E\u0440\u043E\u0442\u043A\u0443\u044E
+        \u0440\u0435\u043A\u043B\u0430\u043C\u0443"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: OfflineIncome
+      TermType: 0
+      Description: 
+      Languages:
+      - Earned\nwhile you were away
+      - "\u041F\u043E\u043B\u0443\u0447\u0435\u043D\u043E\\n\u043F\u043E\u043A\u0430
+        \u0432\u044B \u0431\u044B\u043B\u0438 \u043E\u0444\u043B\u0430\u0439\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: LevelUpBonus
+      TermType: 0
+      Description: 
+      Languages:
+      - Level up bonus!
+      - "\u0411\u043E\u043D\u0443\u0441 \u0443\u0440\u043E\u0432\u043D\u044F!"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: LevelUp
+      TermType: 0
+      Description: 
+      Languages:
+      - Level up
+      - "\u041F\u043E\u0432\u044B\u0441\u0438\u0442\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Ready
+      TermType: 0
+      Description: 
+      Languages:
+      - Ready
+      - "\u0413\u043E\u0442\u043E\u0432"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: MultiplierBooster
+      TermType: 0
+      Description: 
+      Languages:
+      - Multiplier Booster
+      - "\u0423\u0441\u0438\u043B\u0438\u0442\u0435\u043B\u044C \u043C\u043D\u043E\u0436\u0438\u0442\u0435\u043B\u044F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: MultiplierBooster_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - Production x{0} for {1} sec.
+      - "\u041F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E
+        x{0} \u043D\u0430 {1} \u0441\u0435\u043A."
+      Flags: 0000
+      Languages_Touch: []
+    - Term: TapBooster
+      TermType: 0
+      Description: 
+      Languages:
+      - Tap Booster
+      - "\u0423\u0441\u0438\u043B\u0438\u0442\u0435\u043B\u044C \u0442\u0430\u043F\u043E\u0432"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: TapBooster_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - '{0} tap/s for {1} sec.'
+      - "{0} \u0442\u0430\u043F\u043E\u0432/\u0441 \u043D\u0430 {1} \u0441\u0435\u043A."
+      Flags: 0000
+      Languages_Touch: []
+    - Term: IncomeBooster
+      TermType: 0
+      Description: 
+      Languages:
+      - Income Booster
+      - "\u0423\u0441\u0438\u043B\u0438\u0442\u0435\u043B\u044C \u0438\u043D\u043A\u0430\u043C\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: IncomeBooster_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - '{0} notes immediately'
+      - "{0} \u043D\u043E\u0442\u043E\u043A \u043D\u0435\u043C\u0435\u0434\u043B\u0435\u043D\u043D\u043E"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: OfflineBooster
+      TermType: 0
+      Description: 
+      Languages:
+      - Offline Booster
+      - "\u0423\u0441\u0438\u043B\u0438\u0442\u0435\u043B\u044C \u043E\u0444\u043B\u0430\u0439\u043D\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: OfflineBooster_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - '{0} notes/s while you are away'
+      - "{0} \u043D\u043E\u0442\u043E\u043A/\u0441 \u043F\u043E\u043A\u0430 \u0432\u044B
+        \u043E\u0444\u043B\u0430\u0439\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Shop
+      TermType: 0
+      Description: 
+      Languages:
+      - Shop
+      - "\u041C\u0430\u0433\u0430\u0437\u0438\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Crystals
+      TermType: 0
+      Description: 
+      Languages:
+      - Crystals
+      - "\u041A\u0440\u0438\u0441\u0442\u0430\u043B\u043B\u044B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Multipliers
+      TermType: 0
+      Description: 
+      Languages:
+      - Multipliers
+      - "\u041C\u043D\u043E\u0436\u0438\u0442\u0435\u043B\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: TimeSkipers
+      TermType: 0
+      Description: 
+      Languages:
+      - Time jumps
+      - "\u041F\u0440\u043E\u043F\u0443\u0441\u043A \u0432\u0440\u0435\u043C\u0435\u043D\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: ItemPurchased
+      TermType: 0
+      Description: 
+      Languages:
+      - Item Purchased!
+      - "\u041F\u0435\u0440\u0434\u043C\u0435\u0442 \u043A\u0443\u043F\u043B\u0435\u043D!"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: UseNow
+      TermType: 0
+      Description: 
+      Languages:
+      - Use now
+      - "\u0410\u043A\u0442\u0438\u0432\u0438\u0440\u043E\u0432\u0430\u0442\u044C\\n\u0441\u0435\u0439\u0447\u0430\u0441"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Later
+      TermType: 0
+      Description: 
+      Languages:
+      - Later
+      - "\u041F\u043E\u0437\u0436\u0435"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Bonus
+      TermType: 0
+      Description: 
+      Languages:
+      - BONUS
+      - "\u0411\u041E\u041D\u0423\u0421"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Duration
+      TermType: 0
+      Description: 
+      Languages:
+      - DURATION
+      - "\u0414\u041B\u0418\u0422\u0415\u041B\u042C\u041D\u041E\u0421\u0422\u042C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Multiplier
+      TermType: 0
+      Description: 
+      Languages:
+      - multiplier
+      - "\u043C\u043D\u043E\u0436\u0438\u0442\u0435\u043B\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Hatching
+      TermType: 0
+      Description: 
+      Languages:
+      - Hatching
+      - "\u0412\u044B\u043B\u0443\u043F\u043B\u0435\u043D\u0438\u0435"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Settings
+      TermType: 0
+      Description: 
+      Languages:
+      - Settings
+      - "\u041D\u0430\u0441\u0442\u0440\u043E\u0439\u043A\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Sound
+      TermType: 0
+      Description: 
+      Languages:
+      - Sounds
+      - "\u0417\u0432\u0443\u043A\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Music
+      TermType: 0
+      Description: 
+      Languages:
+      - Music
+      - "\u041C\u0443\u0437\u044B\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Vibrations
+      TermType: 0
+      Description: 
+      Languages:
+      - Vibrations
+      - "\u0412\u0438\u0431\u0440\u0430\u0446\u0438\u044F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Rate
+      TermType: 0
+      Description: 
+      Languages:
+      - Rate
+      - "\u041E\u0446\u0435\u043D\u0438\u0442\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: PrivacyPolicy
+      TermType: 0
+      Description: 
+      Languages:
+      - Privacy Policy
+      - "\u041A\u043E\u043D\u0444\u0438\u0434\u0435\u043D\u0446\u0438\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Done
+      TermType: 0
+      Description: 
+      Languages:
+      - Done
+      - "\u0413\u043E\u0442\u043E\u0432\u043E"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AdOffer
+      TermType: 0
+      Description: 
+      Languages:
+      - You got a message!
+      - "\u0423 \u0432\u0430\u0441 \u0441\u043E\u043E\u0431\u0449\u0435\u043D\u0438\u0435!"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: AdDesc
+      TermType: 0
+      Description: 
+      Languages:
+      - Watch a video to get
+      - "\u041F\u043E\u0441\u043C\u043E\u0442\u0440\u0438\u0442\u0435, \u0447\u0442\u043E
+        \u0431\u044B \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: NoThanks
+      TermType: 0
+      Description: 
+      Languages:
+      - No, thanks
+      - "\u0421\u043F\u0430\u0441\u0438\u0431\u043E, \u043D\u0435 \u043D\u0430\u0434\u043E"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: WatchAd
+      TermType: 0
+      Description: 
+      Languages:
+      - Watch the video
+      - "\u0421\u043C\u043E\u0442\u0440\u0435\u0442\u044C \u0432\u0438\u0434\u0435\u043E"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Hatch
+      TermType: 0
+      Description: 
+      Languages:
+      - Hatch
+      - "\u041F\u043E\u0441\u0430\u0434\u0438\u0442\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/american_goldfinch_title
+      TermType: 0
+      Description: 
+      Languages:
+      - American Goldfinch
+      - "\u0410\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439
+        \u0447\u0438\u0436"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/eastern_wood-pewee_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Eastern Wood Pewee
+      - "\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u044B\u0439 \u043B\u0435\u0441\u043D\u043E\u0439
+        \u043F\u0438\u0432\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/american_robin_title
+      TermType: 0
+      Description: 
+      Languages:
+      - American Robin
+      - "\u0421\u0442\u0440\u0430\u043D\u0441\u0442\u0432\u0443\u044E\u0449\u0438\u0439
+        \u0434\u0440\u043E\u0437\u0434"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/anna's_hummingbird_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Anna's hummingbird
+      - "\u041A\u0430\u043B\u0438\u043F\u0442\u0430 \u0410\u043D\u043D\u044B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/blue_jay_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Blue Jay
+      - "\u0413\u043E\u043B\u0443\u0431\u0430\u044F \u0421\u043E\u0439\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/chimney_swift_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Chimney Swift
+      - "\u0414\u044B\u043C\u0447\u0430\u0442\u044B\u0439 \u0438\u0433\u043B\u043E\u0445\u0432\u043E\u0441\u0442"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/scarlet_tanager_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Scarlet Tanager
+      - "\u041A\u0440\u0430\u0441\u043D\u043E-\u0447\u0451\u0440\u043D\u0430\u044F
+        \u043F\u0438\u0440\u0430\u043D\u0433\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/black-billed_cuckoo_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Black-billed Cuckoo
+      - "\u0427\u0435\u0440\u043D\u043E\u043A\u043B\u044E\u0432\u0430\u044F \u0430\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0430\u044F
+        \u043A\u0443\u043A\u0443\u0448\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/tufted_titmouse_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Tufted Titmouse
+      - "\u041E\u0441\u0442\u0440\u043E\u0445\u043E\u0445\u043B\u0430\u044F \u0441\u0438\u043D\u0438\u0446\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/purple_finch_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Purple Finch
+      - "\u041F\u0443\u0440\u043F\u0443\u0440\u043D\u0430\u044F \u0447\u0435\u0447\u0435\u0432\u0438\u0446\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/common_raven_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Common Raven
+      - "\u0412\u043E\u0440\u043E\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/indigo_bunting_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Indigo Bunting
+      - "\u0418\u043D\u0434\u0438\u0433\u043E\u0432\u044B\u0439 \u043E\u0432\u0441\u044F\u043D\u043A\u043E\u0432\u044B\u0439
+        \u043A\u0430\u0440\u0434\u0438\u043D\u0430\u043B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/house_wren_title
+      TermType: 0
+      Description: 
+      Languages:
+      - House Wren
+      - "\u0414\u043E\u043C\u043E\u0432\u044B\u0439 \u043A\u0440\u0430\u043F\u0438\u0432\u043D\u0438\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/summer_tanager_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Summer Tanager
+      - "\u0410\u043B\u0430\u044F \u043F\u0438\u0440\u0430\u043D\u0433\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/gray_catbird_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Gray Catbird
+      - "\u041A\u043E\u0448\u0430\u0447\u0438\u0439 \u043F\u0435\u0440\u0435\u0441\u043C\u0435\u0448\u043D\u0438\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/yellow_warbler_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Yellow Warbler
+      - "\u0416\u0451\u043B\u0442\u0430\u044F \u0434\u0440\u0435\u0432\u0435\u0441\u043D\u0438\u0446\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/pileated_woodpecker_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Pileated Woodpecker
+      - "\u0425\u043E\u0445\u043B\u0430\u0442\u0430\u044F \u0436\u0435\u043B\u043D\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/green_jay_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Green Jay
+      - "\u041F\u0435\u0440\u0443\u0430\u043D\u0441\u043A\u0430\u044F \u0440\u0430\u0437\u043D\u043E\u0446\u0432\u0435\u0442\u043D\u0430\u044F
+        \u0441\u043E\u0439\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/willow_ptarmigan_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Willow Ptarmigan
+      - "\u0411\u0435\u043B\u0430\u044F \u043A\u0443\u0440\u043E\u043F\u0430\u0442\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/scissor-tailed_flycatcher_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Scissor-tailed Flycatcher
+      - "\u0414\u043B\u0438\u043D\u043D\u043E\u0445\u0432\u043E\u0441\u0442\u044B\u0439
+        \u043A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u0438\u0439 \u0442\u0438\u0440\u0430\u043D\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/costa's_hummingbird_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Costa's Hummingbird
+      - "\u041A\u0430\u043B\u0438\u043F\u0442\u0430 \u041A\u043E\u0441\u0442\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/belted_kingfisher_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Belted kingfisher
+      - "\u041E\u043F\u043E\u044F\u0441\u0430\u043D\u043D\u044B\u0439 \u043F\u0435\u0433\u0438\u0439
+        \u0437\u0438\u043C\u043E\u0440\u043E\u0434\u043E\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/northern_red_bishop_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Northern Red Bishop
+      - "\u0417\u0430\u043F\u0430\u0434\u043D\u043E\u0430\u0444\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439
+        \u043E\u0433\u043D\u0435\u043D\u043D\u044B\u0439 \u0431\u0430\u0440\u0445\u0430\u0442\u043D\u044B\u0439
+        \u0442\u043A\u0430\u0447"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/american_osprey_title
+      TermType: 0
+      Description: 
+      Languages:
+      - American Osprey
+      - "\u0421\u043A\u043E\u043F\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/magnificent_frigatebird_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Magnificent Frigatebird
+      - "\u0412\u0435\u043B\u0438\u043A\u043E\u043B\u0435\u043F\u043D\u044B\u0439
+        \u0444\u0440\u0435\u0433\u0430\u0442"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/wrentit_title
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Wrentit '
+      - "\u0410\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0430\u044F
+        \u0442\u0438\u043C\u0435\u043B\u0438\u044F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/black-throated_blue_warbler_title
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Black-throated blue warbler '
+      - "\u0421\u0438\u043D\u0435\u0441\u043F\u0438\u043D\u043D\u044B\u0439 \u043B\u0435\u0441\u043D\u043E\u0439
+        \u043F\u0435\u0432\u0443\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/great_horned_owl_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Great Horned Owl
+      - "\u0412\u0438\u0440\u0433\u0438\u043D\u0441\u043A\u0438\u0439 \u0444\u0438\u043B\u0438\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/red-headed_woodpecker_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Red-headed woodpecker
+      - "\u041A\u0440\u0430\u0441\u043D\u043E\u0433\u043E\u043B\u043E\u0432\u044B\u0439
+        \u0434\u044F\u0442\u0435\u043B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/veery_title
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Veery '
+      - "\u0411\u0443\u0440\u044B\u0439 \u043A\u043E\u0440\u043E\u0442\u043A\u043E\u043A\u043B\u044E\u0432\u044B\u0439
+        \u0434\u0440\u043E\u0437\u0434"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/baltimore_oriole_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Baltimore Oriole
+      - "\u0411\u0430\u043B\u0442\u0438\u043C\u043E\u0440\u0441\u043A\u0430\u044F
+        \u0438\u0432\u043E\u043B\u0433\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/black-capped_chickadee_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Black-capped Chickadee
+      - "\u0427\u0435\u0440\u043D\u043E\u0448\u0430\u043F\u043E\u0447\u043D\u0430\u044F
+        \u0433\u0430\u0438\u0447\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/ruby-throated_hummingbird_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Ruby-throated Hummingbird
+      - "\u0420\u0443\u0431\u0438\u043D\u043E\u0432\u043E\u0433\u043E\u0440\u043B\u044B\u0439
+        \u043A\u043E\u043B\u0438\u0431\u0440\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/snowy_owl_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Snowy Owl
+      - "\u041F\u043E\u043B\u044F\u0440\u043D\u0430\u044F \u0441\u043E\u0432\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/cardinal_title
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Cardinal '
+      - "\u041A\u0440\u0430\u0441\u043D\u044B\u0439 \u043A\u0430\u0440\u0434\u0438\u043D\u0430\u043B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/cerulean_warbler_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Cerulean Warbler
+      - "\u0413\u043E\u043B\u0443\u0431\u043E\u0439 \u043B\u0435\u0441\u043D\u043E\u0439
+        \u043F\u0435\u0432\u0443\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/ovenbird_title
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Ovenbird '
+      - "\u0417\u043E\u043B\u043E\u0442\u043E\u0433\u043E\u043B\u043E\u0432\u044B\u0439
+        \u0434\u0440\u043E\u0437\u0434\u043E\u0432\u044B\u0439 \u043F\u0435\u0432\u0443\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/green_kingfisher_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Green Kingfisher
+      - "\u0417\u0435\u043B\u0451\u043D\u044B\u0439 \u0437\u0438\u043C\u043E\u0440\u043E\u0434\u043E\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/western_tanager_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Western Tanager
+      - "\u041A\u0440\u0430\u0441\u043D\u043E\u0433\u043E\u043B\u043E\u0432\u0430\u044F
+        \u043F\u0438\u0440\u0430\u043D\u0433\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/peregrine_falcon_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Peregrine Falcon
+      - "\u0421\u0430\u043F\u0441\u0430\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/yellow-throated_vireo_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Northern Goshawk
+      - "\u042F\u0441\u0442\u0440\u0435\u0431-\u0442\u0435\u0442\u0435\u0440\u0435\u0432\u044F\u0442\u043D\u0438\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/allen's_hummingbird_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Allen's hummingbird
+      - "\u041A\u043E\u043B\u0438\u0431\u0440\u0438 \u0410\u043B\u043B\u0435\u043D\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/barn_swallow_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Barn swallow
+      - "\u0414\u0435\u0440\u0435\u0432\u0435\u043D\u0441\u043A\u0430\u044F \u043B\u0430\u0441\u0442\u043E\u0447\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/cedar_waxwing_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Cedar Waxwing
+      - "\u0410\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0438\u0439
+        \u0441\u0432\u0438\u0440\u0438\u0441\u0442\u0435\u043B\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/eastern_towhee_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Eastern Towhee
+      - "\u041A\u0440\u0430\u0441\u043D\u043E\u0433\u043B\u0430\u0437\u044B\u0439
+        \u0442\u0430\u0443\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/song_sparrow_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Song Sparrow
+      - "\u041F\u0435\u0432\u0447\u0430\u044F \u043E\u0432\u0441\u044F\u043D\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/house_finch_title
+      TermType: 0
+      Description: 
+      Languages:
+      - House Finch
+      - "\u041C\u0435\u043A\u0441\u0438\u043A\u0430\u043D\u0441\u043A\u0430\u044F
+        \u0447\u0435\u0447\u0435\u0432\u0438\u0446\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/american_redstart_title
+      TermType: 0
+      Description: 
+      Languages:
+      - American Redstart
+      - "\u0410\u043C\u0435\u0440\u0438\u043A\u0430\u043D\u0441\u043A\u0430\u044F
+        \u0433\u043E\u0440\u0438\u0445\u0432\u043E\u0441\u0442\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/pacific-slope_flycatcher_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Pacific-slope Flycatcher
+      - "\u0422\u0438\u0445\u043E\u043E\u043A\u0435\u0430\u043D\u0441\u043A\u0430\u044F
+        \u043C\u0443\u0445\u043E\u043B\u043E\u0432\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/carolina_wren_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Carolina Wren
+      - "\u041A\u0430\u0440\u043E\u043B\u0438\u043D\u0441\u043A\u0438\u0439 \u043A\u0443\u0441\u0442\u0430\u0440\u043D\u0438\u043A\u043E\u0432\u044B\u0439
+        \u043A\u0440\u0430\u043F\u0438\u0432\u043D\u0438\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/bluebird_title
+      TermType: 0
+      Description: 
+      Languages:
+      - 'Eastern Bluebird '
+      - "\u0412\u043E\u0441\u0442\u043E\u0447\u043D\u0430\u044F \u0441\u0438\u0430\u043B\u0438\u044F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/rose-breasted_grosbeak_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Rose-breasted Grosbeak
+      - "\u041A\u0440\u0430\u0441\u043D\u043E\u0433\u0440\u0443\u0434\u044B\u0439
+        \u0434\u0443\u0431\u043E\u043D\u043E\u0441\u043E\u0432\u044B\u0439 \u043A\u0430\u0440\u0434\u0438\u043D\u0430\u043B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/northern_flicker_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Northern Flicker
+      - "\u0417\u043E\u043B\u043E\u0442\u043E\u0439 \u0434\u044F\u0442\u0435\u043B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/magnolia_warbler_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Magnolia Warbler
+      - "\u041C\u0430\u0433\u043D\u043E\u043B\u0438\u0435\u0432\u044B\u0439 \u043B\u0435\u0441\u043D\u043E\u0439
+        \u043F\u0435\u0432\u0443\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/eastern_kingbird_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Eastern Kingbird
+      - "\u041A\u043E\u0440\u043E\u043B\u0435\u0432\u0441\u043A\u0438\u0439 \u0442\u0438\u0440\u0430\u043D\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/american_kestrel_title
+      TermType: 0
+      Description: 
+      Languages:
+      - American kestrel
+      - "\u0412\u043E\u0440\u043E\u0431\u044C\u0438\u043D\u0430\u044F \u043F\u0443\u0441\u0442\u0435\u043B\u044C\u0433\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/olive_warbler_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Olive Warbler
+      - "\u041E\u043B\u0438\u0432\u043A\u043E\u0432\u044B\u0439 \u043F\u0435\u0432\u0443\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/ruffed_grouse_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Ruffed Grouse
+      - "\u0412\u043E\u0440\u043E\u0442\u043D\u0438\u0447\u043A\u043E\u0432\u044B\u0439
+        \u0440\u044F\u0431\u0447\u0438\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Birds/american_bald_eagle_title
+      TermType: 0
+      Description: 
+      Languages:
+      - American Bald Eagle
+      - "\u0411\u0435\u043B\u043E\u0433\u043E\u043B\u043E\u0432\u044B\u0439 \u043E\u0440\u043B\u0430\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_add_time_to_offline_income_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - +1 hour to ofline income
+      - "+1 \u0447\u0430\u0441 \u043A \u043E\u0444\u043B\u0430\u0439\u043D\u0443"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_add_time_to_offline_income_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Gramophone
+      - "\u0413\u0440\u0430\u043C\u043C\u043E\u0444\u043E\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_bird_cost_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - -3% bird cost
+      - "-3% \u0441\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u044C \u043F\u0442\u0438\u0446\u044B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_bird_cost_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Nest
+      - "\u0413\u043D\u0435\u0437\u0434\u043E"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_bird_level_up_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - -2% bird upgrade
+      - "-2% \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 \u043F\u0442\u0438\u0446\u044B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_bird_level_up_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Nuts feeder
+      - "\u041E\u0440\u0435\u0445\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_boosters_level_up_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - -2% boosters upgrade
+      - "-2% \u0443\u043B\u0443\u0447\u0448\u0435\u043D\u0438\u0435 \u0431\u0443\u0441\u0442\u0435\u0440\u043E\u0432"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_boosters_level_up_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Cup
+      - "\u041A\u0443\u0431\u043E\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_decoration_effect_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - +1% decorations effect
+      - "+1% \u043A \u044D\u0444\u0444\u0435\u043A\u0442\u0443 \u0434\u0435\u043A\u043E\u0440\u043E\u0432"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_decoration_effect_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Birdhouse
+      - "\u0421\u043A\u0432\u043E\u0440\u0435\u0447\u043D\u0438\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_experience_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - +2% experience gain
+      - "+2% \u043A \u043F\u043E\u043B\u0443\u0447\u0435\u043D\u0438\u044E \u043E\u043F\u044B\u0442\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_experience_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Incubator
+      - "\u0418\u043D\u043A\u0443\u0431\u0430\u0442\u043E\u0440"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_hatch_time_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - -10% hatch time
+      - "-10% \u0432\u0440\u0435\u043C\u044F \u0432\u044B\u043B\u0443\u043F\u043B\u0435\u043D\u0438\u044F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_hatch_time_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Red flowers
+      - "\u041A\u0440\u0430\u0441\u043D\u044B\u0435 \u0446\u0432\u0435\u0442\u044B"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_income_booster_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - +2% income booster
+      - "+2% \u0438\u043D\u043A\u0430\u043C \u0431\u0443\u0441\u0442\u0435\u0440"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_income_booster_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Corn feeder
+      - "\u0425\u043B\u043E\u043F\u044C\u044F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_level_up_reward_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - +10% level up reward
+      - "+10% \u043A \u043D\u0430\u0433\u0440\u0430\u0434\u0435 \u0437\u0430 \u0443\u0440\u043E\u0432\u0435\u043D\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_level_up_reward_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Mirror
+      - "\u0417\u0435\u0440\u043A\u0430\u043B\u044C\u0446\u0435"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_multiplier_booster_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - +2% multiplier booster
+      - "+2% \u043A \u0431\u0443\u0441\u0442\u0435\u0440\u0443 \u043C\u043D\u043E\u0436\u0438\u0442\u0435\u043B\u044F"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_multiplier_booster_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Sakura
+      - "\u0421\u0430\u043A\u0443\u0440\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_new_branch_cost_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - -5% branch cost
+      - "-5% \u043A \u0441\u0442\u043E\u0438\u043C\u043E\u0441\u0442\u0438 \u0432\u0435\u0442\u043A\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_new_branch_cost_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Lilac
+      - "\u0421\u0438\u0440\u0435\u043D\u044C"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_notes_production_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - +2% notes production
+      - "+2% \u043A \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u0443
+        \u043D\u043E\u0442\u043E\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_notes_production_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Drinker
+      - "\u041F\u043E\u0438\u043B\u043A\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_offline_income_booster_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - +2% offline booster
+      - "+2% \u043A \u043E\u0444\u043B\u0430\u0439\u043D \u0431\u0443\u0441\u0442\u0435\u0440\u0443"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_offline_income_booster_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Bells
+      - "\u041A\u043E\u043B\u043E\u043A\u043E\u043B\u044C\u0447\u0438\u043A\u0438"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_offline_notes_production_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - +5% offline notes production
+      - "+5% \u043E\u0444\u043B\u0430\u0439\u043D \u043F\u0440\u043E\u0438\u0437\u0432\u043E\u0434\u0441\u0442\u0432\u043E
+        \u043D\u043E\u0442\u043E\u043A"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_offline_notes_production_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Harp
+      - "\u0410\u0440\u0444\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_tap_booster_desc
+      TermType: 0
+      Description: 
+      Languages:
+      - +2% tap booster duration
+      - "+2% \u043A \u0434\u043B\u0438\u0442\u0435\u043B\u044C\u043D\u043E\u0441\u0442\u0438
+        \u0442\u0430\u043F \u0431\u0443\u0441\u0442\u0435\u0440\u0430"
+      Flags: 0000
+      Languages_Touch: []
+    - Term: Decors/decor_tap_booster_title
+      TermType: 0
+      Description: 
+      Languages:
+      - Fountain
+      - "\u0424\u043E\u043D\u0442\u0430\u043D"
+      Flags: 0000
+      Languages_Touch: []
+    CaseInsensitiveTerms: 0
+    OnMissingTranslation: 1
+    mTerm_AppName: 
+    mLanguages:
+    - Name: English
+      Code: en
+      Flags: 0
+    - Name: Russian
+      Code: ru
+      Flags: 0
+    IgnoreDeviceLanguage: 1
+    _AllowUnloadingLanguages: 0
+    Google_WebServiceURL: https://script.google.com/macros/s/AKfycbyVbNIUsjavsJSyDp22ANEJpkoDxoMAISoSbGtjdHNa74p5LVhz8b8ypdlYDAnvO6xD/exec
+    Google_SpreadsheetKey: 1JUeTKGesvRy_zHMR9jpyNicJ4UTXZoRlVh0jMxQRc0w
+    Google_SpreadsheetName: I2Loc Birds Localization
+    Google_LastUpdatedVersion: 1681904406568
+    Google_Password: change_this
+    GoogleUpdateFrequency: 3
+    GoogleInEditorCheckFrequency: 2
+    GoogleUpdateSynchronization: 1
+    GoogleUpdateDelay: 0
+    Assets: []
+    Spreadsheet_LocalFileName: 
+    Spreadsheet_LocalCSVSeparator: ','
+    Spreadsheet_LocalCSVEncoding: utf-8
+    Spreadsheet_SpecializationAsRows: 1
+    Spreadsheet_SortRows: 1

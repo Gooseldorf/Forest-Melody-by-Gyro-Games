@@ -1,0 +1,52 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/Scripts/UI/USS/MainUSS.uss?fileID=7433441132597879392&amp;guid=d036492bec5ba624a8989441081ccc45&amp;type=3#MainUSS" />
+    <ui:VisualElement class="TransparentBlack" style="flex-shrink: 0; flex-grow: 1; align-items: center; justify-content: center;">
+        <ui:VisualElement name="WindowBg" class="TopPanelColor CornerRadius25" style="width: 770px; padding-left: 40px; padding-right: 40px; padding-top: 80px; padding-bottom: 40px; align-items: center; justify-content: center;">
+            <ui:VisualElement name="CloseButton" style="position: absolute; top: 0; right: 0; width: 100px; height: 100px; justify-content: center;">
+                <ui:Label text="X" display-tooltip-when-elided="true" class="MainFont" style="color: rgb(191, 191, 191); font-size: 60px; -unity-font-style: bold; -unity-text-align: upper-center;" />
+            </ui:VisualElement>
+            <ui:Label text="Label" display-tooltip-when-elided="true" name="TitleLabel" class="MainFont" style="font-size: 50px; -unity-font-style: bold; color: rgb(43, 43, 43); -unity-text-align: upper-center;" />
+            <ui:VisualElement name="SoundSettings" style="flex-direction: row; justify-content: space-between; align-items: center; max-width: 650px; width: 1000px;">
+                <ui:Label text="Label" display-tooltip-when-elided="true" name="Title" class="MainFont" style="font-size: 40px; color: rgb(43, 43, 43); -unity-font-style: bold;" />
+                <ui:VisualElement name="SwitcherBg" style="width: 110px; height: 70px; background-color: rgb(20, 173, 82); border-top-left-radius: 35px; border-bottom-left-radius: 35px; border-top-right-radius: 35px; border-bottom-right-radius: 35px; justify-content: center; align-items: flex-start;">
+                    <ui:VisualElement name="Switcher" style="width: 60px; height: 60px; background-color: rgb(255, 255, 255); border-top-left-radius: 30px; border-bottom-left-radius: 30px; border-top-right-radius: 30px; border-bottom-right-radius: 30px; margin-left: 5px; margin-right: 5px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="Separator" style="height: 8px; background-color: rgb(231, 245, 246); margin-top: 20px; margin-bottom: 20px; border-top-left-radius: 4px; border-bottom-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width: 690px;" />
+            <ui:VisualElement name="MusicSettings" style="flex-direction: row; justify-content: space-between; align-items: center; max-width: 650px; width: 1000px;">
+                <ui:Label text="Label" display-tooltip-when-elided="true" name="Title" class="MainFont" style="font-size: 40px; color: rgb(43, 43, 43); -unity-font-style: bold;" />
+                <ui:VisualElement name="SwitcherBg" style="width: 110px; height: 70px; background-color: rgb(20, 173, 82); border-top-left-radius: 35px; border-bottom-left-radius: 35px; border-top-right-radius: 35px; border-bottom-right-radius: 35px; justify-content: center; align-items: flex-end;">
+                    <ui:VisualElement name="Switcher" style="width: 60px; height: 60px; background-color: rgb(255, 255, 255); border-top-left-radius: 30px; border-bottom-left-radius: 30px; border-top-right-radius: 30px; border-bottom-right-radius: 30px; margin-left: 5px; margin-right: 5px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="Separator" style="height: 8px; background-color: rgb(231, 245, 246); margin-top: 20px; margin-bottom: 20px; border-top-left-radius: 4px; border-bottom-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width: 690px;" />
+            <ui:VisualElement name="VibrationSettings" style="flex-direction: row; justify-content: space-between; align-items: center; max-width: 650px; width: 1000px;">
+                <ui:Label text="Label" display-tooltip-when-elided="true" name="Title" class="MainFont" style="font-size: 40px; color: rgb(43, 43, 43); -unity-font-style: bold;" />
+                <ui:VisualElement name="SwitcherBg" style="width: 110px; height: 70px; background-color: rgb(20, 173, 82); border-top-left-radius: 35px; border-bottom-left-radius: 35px; border-top-right-radius: 35px; border-bottom-right-radius: 35px; justify-content: center; align-items: flex-end;">
+                    <ui:VisualElement name="Switcher" style="width: 60px; height: 60px; background-color: rgb(255, 255, 255); border-top-left-radius: 30px; border-bottom-left-radius: 30px; border-top-right-radius: 30px; border-bottom-right-radius: 30px; margin-left: 5px; margin-right: 5px;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="Separator" style="height: 8px; background-color: rgb(231, 245, 246); margin-top: 20px; margin-bottom: 20px; border-top-left-radius: 4px; border-bottom-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width: 690px;" />
+            <ui:VisualElement name="RateButton" class="CornerRadius20" style="width: 650px; height: 112px; background-color: rgb(0, 176, 235); justify-content: center; align-items: center;">
+                <ui:Label text="Label" display-tooltip-when-elided="true" name="RateButtonLabel" class="MainFont" style="color: rgb(255, 255, 255); font-size: 45px; -unity-font-style: bold;" />
+            </ui:VisualElement>
+            <ui:VisualElement style="margin-top: 20px; flex-direction: row;">
+                <ui:VisualElement name="PrivacyButton" class="CornerRadius20" style="width: 518px; height: 112px; background-color: rgb(0, 176, 235); justify-content: center; align-items: center; margin-right: 20px;">
+                    <ui:Label text="Label" display-tooltip-when-elided="true" name="PrivacyButtonLabel" class="MainFont" style="color: rgb(255, 255, 255); font-size: 45px; -unity-font-style: bold;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="UnityPrivacyButton" class="CornerRadius20" style="width: 112px; height: 112px; background-color: rgb(0, 176, 235); justify-content: center; align-items: center;">
+                    <ui:VisualElement style="width: 80px; height: 80px; background-image: url(&apos;project://database/Assets/VisualAssets/Interface/UnityPrivacyPolicy_icon.png?fileID=2800000&amp;guid=b5b32c86284b72a429e54d050d84452c&amp;type=3#UnityPrivacyPolicy_icon&apos;);" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+            <ui:VisualElement name="Separator" style="height: 8px; background-color: rgb(231, 245, 246); margin-top: 20px; margin-bottom: 20px; border-top-left-radius: 4px; border-bottom-left-radius: 4px; border-top-right-radius: 4px; border-bottom-right-radius: 4px; width: 690px;" />
+            <ui:VisualElement name="Languages" style="flex-direction: row;">
+                <ui:VisualElement name="RussianButton" class="CornerRadius20" style="width: 315px; height: 112px; background-color: rgb(0, 176, 235); justify-content: center; align-items: center; margin-right: 20px;">
+                    <ui:Label text="Русский" display-tooltip-when-elided="true" name="RussianLabel" class="MainFont" style="color: rgb(255, 255, 255); font-size: 45px; -unity-font-style: bold;" />
+                </ui:VisualElement>
+                <ui:VisualElement name="EnglishButton" class="CornerRadius20" style="width: 315px; height: 112px; background-color: rgb(0, 176, 235); justify-content: center; align-items: center;">
+                    <ui:Label text="English" display-tooltip-when-elided="true" name="EnglishLabel" class="MainFont" style="color: rgb(255, 255, 255); font-size: 45px; -unity-font-style: bold;" />
+                </ui:VisualElement>
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

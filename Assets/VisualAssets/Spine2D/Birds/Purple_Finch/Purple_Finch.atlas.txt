@@ -1,0 +1,27 @@
+
+Purple_Finch.png
+size: 312,254
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Purple_Finch_Body
+  rotate: true
+  xy: 2, 2
+  size: 250, 279
+  orig: 250, 279
+  offset: 0, 0
+  index: -1
+Purple_Finch_BottomBeak
+  rotate: true
+  xy: 283, 163
+  size: 43, 20
+  orig: 43, 20
+  offset: 0, 0
+  index: -1
+Purple_Finch_TopBeak
+  rotate: true
+  xy: 283, 208
+  size: 44, 27
+  orig: 44, 27
+  offset: 0, 0
+  index: -1

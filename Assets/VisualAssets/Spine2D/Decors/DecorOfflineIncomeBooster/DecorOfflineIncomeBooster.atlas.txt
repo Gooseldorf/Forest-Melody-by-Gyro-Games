@@ -1,0 +1,41 @@
+
+DecorOfflineIncomeBooster.png
+size: 634,141
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 608, 114
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 2, 8
+  size: 131, 200
+  orig: 131, 200
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 204, 8
+  size: 131, 200
+  orig: 131, 200
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 406, 8
+  size: 131, 200
+  orig: 131, 200
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 2
+  size: 4, 204
+  orig: 4, 204
+  offset: 0, 0
+  index: -1
